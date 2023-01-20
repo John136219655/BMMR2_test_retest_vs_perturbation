@@ -1,0 +1,983 @@
+,Arm,HR,HER2,MP,pCR,Age_at_Screening,Race,menopausal_status,ethnicity
+756412,Paclitaxel + ABT 888 + Carboplatin,1,0,0,0,46,White,Premenopausal(< 6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+111881,Paclitaxel + Neratinib,1,1,1,1,37,White,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+451816,Paclitaxel + ABT 888 + Carboplatin,1,0,0,0,43,White,Premenopausal(< 6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+243836,Paclitaxel + Neratinib,1,0,1,1,31,White,Premenopausal(< 6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+402265,Paclitaxel + Trastuzumab,1,1,0,0,56,White,Postmenopausal (prior bilateral ovariectomy OR > 12 months since LMP with no prior hysterectomy),Not Hispanic or Latino
+611662,Paclitaxel + Neratinib,0,1,0,0,55,Black or African American,Postmenopausal (prior bilateral ovariectomy OR > 12 months since LMP with no prior hysterectomy),Not Hispanic or Latino
+139137,Paclitaxel + ABT 888 + Carboplatin,1,0,0,0,54,White,Postmenopausal (prior bilateral ovariectomy OR > 12 months since LMP with no prior hysterectomy),Not Hispanic or Latino
+685753,Paclitaxel + AMG 386,1,0,0,0,46,White,Premenopausal(< 6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+627981,Paclitaxel,0,0,0,1,64,White,Postmenopausal (prior bilateral ovariectomy OR > 12 months since LMP with no prior hysterectomy),Not Hispanic or Latino
+108939,Paclitaxel + Neratinib,1,1,0,1,34,White,Premenopausal(< 6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+629210,Paclitaxel + Neratinib,1,0,0,0,40,White,Premenopausal(< 6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+809037,Paclitaxel,1,0,0,0,52,White,Perimenopausal (6-12 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+107700,Paclitaxel + MK-2206 + Trastuzumab,1,1,0,0,68,Asian,Postmenopausal (prior bilateral ovariectomy OR > 12 months since LMP with no prior hysterectomy),Not Hispanic or Latino
+373672,Paclitaxel,0,0,0,0,67,Black or African American,Above categories not applicable AND Age > 50,Not Hispanic or Latino
+615873,Paclitaxel,0,0,1,1,48,White,Premenopausal(< 6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+607047,Paclitaxel + AMG 386,1,0,0,1,41,White,Premenopausal(< 6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+155171,Paclitaxel + ABT 888 + Carboplatin,1,0,0,0,50,White,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+815421,Paclitaxel + Neratinib,1,1,0,0,68,Black or African American,Postmenopausal (prior bilateral ovariectomy OR > 12 months since LMP with no prior hysterectomy),Not Hispanic or Latino
+609897,Paclitaxel + ABT 888 + Carboplatin,1,0,0,0,47,White,Premenopausal(< 6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+605713,Paclitaxel + ABT 888 + Carboplatin,1,0,0,0,38,Black or African American,Premenopausal(< 6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+246134,Paclitaxel + Trastuzumab,1,1,0,0,68,White,Above categories not applicable AND Age > 50,Not Hispanic or Latino
+373346,Paclitaxel + AMG 386,1,0,0,0,59,White,Postmenopausal (prior bilateral ovariectomy OR > 12 months since LMP with no prior hysterectomy),Not Hispanic or Latino
+349225,Paclitaxel,0,0,1,0,40,White,Premenopausal(< 6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+208265,Paclitaxel + ABT 888 + Carboplatin,0,0,0,1,41,White,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+395076,Paclitaxel,0,0,1,1,53,White,Premenopausal(< 6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+637752,Paclitaxel + AMG 386,0,0,1,1,48,White,Premenopausal(< 6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+331192,Paclitaxel + ABT 888 + Carboplatin,1,0,1,1,42,Black or African American,Premenopausal(< 6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+327133,Paclitaxel,0,0,1,0,38,White,Premenopausal(< 6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Hispanic or Latino
+541165,Paclitaxel + Neratinib,0,0,1,0,49,Asian,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+802778,Paclitaxel + ABT 888 + Carboplatin,1,0,0,0,64,White,Postmenopausal (prior bilateral ovariectomy OR > 12 months since LMP with no prior hysterectomy),Not Hispanic or Latino
+794428,Paclitaxel,0,0,0,0,56,White,Postmenopausal (prior bilateral ovariectomy OR > 12 months since LMP with no prior hysterectomy),Not Hispanic or Latino
+625800,Paclitaxel + Neratinib,1,1,0,0,50,White,Perimenopausal (6-12 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+422450,Paclitaxel + Neratinib,1,0,1,1,51,White,Perimenopausal(6-12 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+613188,Paclitaxel + AMG 386,0,0,0,0,53,White,Postmenopausal (prior bilateral ovariectomy OR > 12 months since LMP with no prior hysterectomy),Not Hispanic or Latino
+159284,Paclitaxel,0,0,0,0,35,White,Postmenopausal (prior bilateral ovariectomy OR > 12 months since LMP with no prior hysterectomy),Not Hispanic or Latino
+641977,Paclitaxel + AMG 386,1,0,0,0,57,Native Hawaiian or Pacific Islander,Postmenopausal (prior bilateral ovariectomy OR > 12 months since LMP with no prior hysterectomy),Not Hispanic or Latino
+326433,Paclitaxel + AMG 386,0,0,1,1,39,White,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+539876,Paclitaxel + Ganetespib,1,0,0,0,59,White,Postmenopausal (prior bilateral ovariectomy OR > 12 months since LMP with no prior hysterectomy),Not Hispanic or Latino
+109623,Paclitaxel + Ganetespib,1,0,0,0,44,White,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Hispanic or Latino
+153327,Paclitaxel + Pembrolizumab,0,0,1,1,56,White,Postmenopausal (prior bilateral ovariectomy OR > 12 months since LMP with no prior hysterectomy),Not Hispanic or Latino
+622315,Paclitaxel + AMG 386,0,0,1,0,48,White,Above categories not applicable AND Age < 50,Not Hispanic or Latino
+597873,Paclitaxel + Pembrolizumab,0,0,1,0,36,Black or African American,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+111646,Paclitaxel + Ganetespib,1,0,0,0,66,White,,Not Hispanic or Latino
+574091,Paclitaxel + Pembrolizumab,0,0,1,1,57,White,Postmenopausal (prior bilateral ovariectomy OR > 12 months since LMP with no prior hysterectomy),Not Hispanic or Latino
+515284,Paclitaxel + Ganetespib,0,0,1,0,36,White,Above categories not applicable AND Age < 50,Not Hispanic or Latino
+366120,T-DM1 + Pertuzumab,1,1,1,0,46,White,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+769972,Paclitaxel + Ganitumab,1,0,0,0,45,White,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Hispanic or Latino
+494296,Paclitaxel + Pembrolizumab,1,0,0,0,50,White,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+918979,Paclitaxel + Ganitumab,0,0,1,0,60,White,Postmenopausal (prior bilateral ovariectomy OR > 12 months since LMP with no prior hysterectomy),Not Hispanic or Latino
+196024,Paclitaxel + Ganetespib,0,0,1,0,67,White,Above categories not applicable AND Age > 50,Not Hispanic or Latino
+221375,Paclitaxel + Ganetespib,1,0,0,0,46,White,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Hispanic or Latino
+845783,Paclitaxel + AMG 386,1,0,1,1,34,Black or African American,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+483910,Paclitaxel + Pembrolizumab,0,0,0,0,50,Asian,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+767081,T-DM1 + Pertuzumab,0,1,0,1,61,White,Postmenopausal (prior bilateral ovariectomy OR > 12 months since LMP with no prior hysterectomy),Not Hispanic or Latino
+425173,Paclitaxel + Pembrolizumab,1,0,0,1,55,White,Above categories not applicable AND Age > 50,Not Hispanic or Latino
+464547,T-DM1 + Pertuzumab,1,1,1,1,41,White,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+847272,Paclitaxel,0,0,1,0,51,Black or African American,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+255577,Paclitaxel,0,0,1,0,50,Asian,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+884011,Paclitaxel + Ganitumab,1,0,0,0,66,White,Postmenopausal (prior bilateral ovariectomy OR > 12 months since LMP with no prior hysterectomy),Not Hispanic or Latino
+213328,Paclitaxel,0,0,1,1,32,White,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+949444,Paclitaxel + AMG 386,0,0,1,0,34,Asian,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+797639,Paclitaxel + MK-2206,1,0,1,0,57,White,Postmenopausal (prior bilateral ovariectomy OR > 12 months since LMP with no prior hysterectomy),Not Hispanic or Latino
+264305,Paclitaxel + Ganitumab,0,0,1,1,42,White,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+277888,Paclitaxel + Ganitumab,1,0,0,1,48,White,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+753109,Paclitaxel + MK-2206,0,0,1,1,65,White,Postmenopausal (prior bilateral ovariectomy OR > 12 months since LMP with no prior hysterectomy),Not Hispanic or Latino
+220471,Paclitaxel + Trastuzumab,0,1,1,0,50,White,Postmenopausal (prior bilateral ovariectomy OR > 12 months since LMP with no prior hysterectomy),Not Hispanic or Latino
+494946,Paclitaxel + Pembrolizumab,0,0,1,1,51,White,Postmenopausal (prior bilateral ovariectomy OR > 12 months since LMP with no prior hysterectomy),Not Hispanic or Latino
+326202,Paclitaxel + Pembrolizumab,1,0,1,0,45,Asian,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+266840,Paclitaxel + Trastuzumab,1,1,0,0,37,White,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+378885,Paclitaxel + AMG 386,1,0,0,0,36,White,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+873686,Paclitaxel + Pembrolizumab,1,0,0,0,60,White,Postmenopausal (prior bilateral ovariectomy OR > 12 months since LMP with no prior hysterectomy),Not Hispanic or Latino
+916586,Paclitaxel + Ganetespib,1,0,0,0,46,Asian,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+786480,Paclitaxel + Ganetespib,1,0,1,0,41,White,Above categories not applicable AND Age < 50,Not Hispanic or Latino
+456506,Paclitaxel + Pembrolizumab,1,0,0,0,47,White,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Hispanic or Latino
+452703,Paclitaxel + Ganetespib,1,0,1,0,45,White,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Hispanic or Latino
+220925,T-DM1 + Pertuzumab,0,1,1,0,37,White,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+120001,Paclitaxel + Neratinib,0,0,0,0,53,Black or African American,Postmenopausal (prior bilateral ovariectomy OR > 12 months since LMP with no prior hysterectomy),Not Hispanic or Latino
+131595,Paclitaxel + AMG 386,1,0,0,0,43,White,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Hispanic or Latino
+167271,T-DM1 + Pertuzumab,1,1,0,0,33,Black or African American,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+166412,Paclitaxel + Trastuzumab,1,1,0,0,37,White,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Hispanic or Latino
+884266,Paclitaxel + Ganetespib,1,0,0,0,49,White,Above categories not applicable AND Age < 50,Not Hispanic or Latino
+604199,Paclitaxel + MK-2206,1,0,0,0,60,Asian,Postmenopausal (prior bilateral ovariectomy OR > 12 months since LMP with no prior hysterectomy),Not Hispanic or Latino
+947398,T-DM1 + Pertuzumab,1,1,0,1,44,White,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Hispanic or Latino
+689480,Paclitaxel + AMG 386,1,0,0,0,54,White,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+146033,Paclitaxel + Pertuzumab + Trastuzumab,1,1,0,1,53,White,Perimenopausal(6-12 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+564701,Paclitaxel + Ganitumab,0,0,1,0,31,White,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+498024,Paclitaxel + Ganetespib,0,0,1,0,57,White,Postmenopausal (prior bilateral ovariectomy OR > 12 months since LMP with no prior hysterectomy),Not Hispanic or Latino
+641697,Paclitaxel + Ganetespib,1,0,1,0,26,White,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+672734,Paclitaxel + Ganitumab,1,0,1,0,39,White,Premenopausal(< 6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+922872,Paclitaxel,1,0,0,0,65,White,Postmenopausal (prior bilateral ovariectomy OR > 12 months since LMP with no prior hysterectomy),Not Hispanic or Latino
+522140,Paclitaxel,1,0,0,0,55,Black or African American,Above categories not applicable AND Age > 50,Not Hispanic or Latino
+413211,T-DM1 + Pertuzumab,1,1,0,0,66,White,Postmenopausal (prior bilateral ovariectomy OR > 12 months since LMP with no prior hysterectomy),Not Hispanic or Latino
+279902,Paclitaxel + Ganetespib,1,0,0,1,42,White,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+638126,Paclitaxel,1,0,0,0,58,White,,
+551795,Paclitaxel + Pertuzumab + Trastuzumab,0,1,1,1,40,White,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+306401,Paclitaxel + AMG 386,1,0,1,1,58,White,Above categories not applicable AND Age > 50,Not Hispanic or Latino
+571995,Paclitaxel + AMG 386,0,0,1,0,57,White,Postmenopausal (prior bilateral ovariectomy OR > 12 months since LMP with no prior hysterectomy),Not Hispanic or Latino
+506623,Paclitaxel + MK-2206,0,0,1,0,69,White,Postmenopausal (prior bilateral ovariectomy OR > 12 months since LMP with no prior hysterectomy),Not Hispanic or Latino
+498985,Paclitaxel + AMG 386 + Trastuzumab,1,1,0,0,25,White,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+240035,Paclitaxel + Ganetespib,1,0,1,0,68,White,Postmenopausal (prior bilateral ovariectomy OR > 12 months since LMP with no prior hysterectomy),Not Hispanic or Latino
+172168,Paclitaxel,0,0,1,0,40,White,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+104384,Paclitaxel + Pembrolizumab,1,0,1,0,42,American Indian or Alaska Native,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+828199,Paclitaxel + Neratinib,1,0,0,0,43,Black or African American,Premenopausal(< 6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+613961,Paclitaxel + Ganetespib,0,0,1,1,45,White,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+376676,Paclitaxel + Ganitumab,0,0,1,0,48,White,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+436371,Paclitaxel,1,0,1,0,60,White,Postmenopausal (prior bilateral ovariectomy OR > 12 months since LMP with no prior hysterectomy),Not Hispanic or Latino
+342142,Paclitaxel + Ganetespib,0,0,1,1,54,White,Postmenopausal (prior bilateral ovariectomy OR > 12 months since LMP with no prior hysterectomy),Not Hispanic or Latino
+554577,Paclitaxel + Ganetespib,1,0,0,0,52,White,Above categories not applicable AND Age > 50,Not Hispanic or Latino
+570685,Paclitaxel + Pertuzumab + Trastuzumab,1,1,0,0,70,Black or African American,Above categories not applicable AND Age > 50,Not Hispanic or Latino
+986734,Paclitaxel + Ganetespib,1,0,0,0,33,Black or African American,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+999264,Paclitaxel + Pertuzumab + Trastuzumab,0,1,1,1,44,White,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+786003,T-DM1 + Pertuzumab,1,1,1,1,57,White,Postmenopausal (prior bilateral ovariectomy OR > 12 months since LMP with no prior hysterectomy),Not Hispanic or Latino
+311455,Paclitaxel,1,0,0,0,58,Asian,Postmenopausal (prior bilateral ovariectomy OR > 12 months since LMP with no prior hysterectomy),Not Hispanic or Latino
+663144,Paclitaxel + Ganitumab,1,0,1,0,48,White,Perimenopausal(6-12 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+960029,Paclitaxel + Pertuzumab + Trastuzumab,1,1,0,0,43,Native Hawaiian or Pacific Islander,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+988665,Paclitaxel + Ganetespib,1,0,0,0,49,White,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+802105,Paclitaxel + Pembrolizumab,1,0,0,0,44,White,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+494022,T-DM1 + Pertuzumab,0,1,1,0,58,Asian,Postmenopausal (prior bilateral ovariectomy OR > 12 months since LMP with no prior hysterectomy),Not Hispanic or Latino
+623569,Paclitaxel + Ganetespib,0,0,1,1,40,Black or African American,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+618717,Paclitaxel + Pertuzumab + Trastuzumab,1,1,0,0,29,White,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+493775,Paclitaxel + Ganetespib,0,0,1,1,41,White,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+355292,Paclitaxel + Ganetespib,1,0,1,0,36,White,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+708387,Paclitaxel + ABT 888 + Carboplatin,0,0,1,1,29,White,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+257735,Paclitaxel,0,0,1,0,48,White,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+625854,Paclitaxel + Pembrolizumab,0,0,1,1,51,White,Postmenopausal (prior bilateral ovariectomy OR > 12 months since LMP with no prior hysterectomy),Hispanic or Latino
+229824,Paclitaxel + ABT 888 + Carboplatin,1,0,0,0,60,White,Postmenopausal (prior bilateral ovariectomy OR > 12 months since LMP with no prior hysterectomy),Not Hispanic or Latino
+152090,Paclitaxel,1,0,1,1,30,White,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Hispanic or Latino
+735673,Paclitaxel,1,0,0,0,44,White,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+460642,Paclitaxel + Ganitumab,1,0,0,0,45,White,,Not Hispanic or Latino
+515281,Paclitaxel + Ganitumab,1,0,0,0,46,White,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+414844,Paclitaxel,1,0,1,0,51,White,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+851180,Paclitaxel + Neratinib,1,1,0,0,50,White,Above categories not applicable AND Age > 50,Hispanic or Latino
+848003,Paclitaxel + AMG 386,0,0,1,0,57,White,Postmenopausal (prior bilateral ovariectomy OR > 12 months since LMP with no prior hysterectomy),Not Hispanic or Latino
+131961,T-DM1 + Pertuzumab,1,1,0,1,44,White,,Not Hispanic or Latino
+795996,Paclitaxel + Pertuzumab + Trastuzumab,1,1,1,1,47,White,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Hispanic or Latino
+683457,Paclitaxel + Ganitumab,0,0,1,0,50,Black or African American,,Not Hispanic or Latino
+767934,Paclitaxel,0,0,1,1,68,White,Above categories not applicable AND Age > 50,Not Hispanic or Latino
+587388,Paclitaxel + ABT 888 + Carboplatin,1,0,0,0,52,White,Postmenopausal (prior bilateral ovariectomy OR > 12 months since LMP with no prior hysterectomy),Not Hispanic or Latino
+105513,Paclitaxel + AMG 386,1,0,1,1,48,White,Premenopausal(< 6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+277848,Paclitaxel + Neratinib,1,1,0,0,66,White,Postmenopausal (prior bilateral ovariectomy OR > 12 months since LMP with no prior hysterectomy),Not Hispanic or Latino
+543795,Paclitaxel + Pembrolizumab,1,0,0,0,47,White,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+122579,Paclitaxel,1,0,0,0,57,White,Postmenopausal (prior bilateral ovariectomy OR > 12 months since LMP with no prior hysterectomy),Not Hispanic or Latino
+518000,Paclitaxel + MK-2206,0,0,1,0,34,White,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+501303,Paclitaxel + Trastuzumab,0,1,1,1,47,Asian,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+139973,Paclitaxel,1,0,0,0,41,White,,Not Hispanic or Latino
+778527,Paclitaxel + MK-2206,0,0,1,1,44,Black or African American,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+345907,Paclitaxel + MK-2206,0,0,1,0,61,Asian,Postmenopausal (prior bilateral ovariectomy OR > 12 months since LMP with no prior hysterectomy),Not Hispanic or Latino
+963604,Paclitaxel + AMG 386,1,0,0,0,51,White,Perimenopausal(6-12 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+571276,Paclitaxel + Ganetespib,0,0,1,0,48,Black or African American,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+861745,Paclitaxel + MK-2206,1,0,1,0,31,White,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+517446,Paclitaxel,1,0,0,0,63,White,Postmenopausal (prior bilateral ovariectomy OR > 12 months since LMP with no prior hysterectomy),Not Hispanic or Latino
+528479,Paclitaxel + Ganetespib,0,0,0,0,63,White,Above categories not applicable AND Age > 50,Not Hispanic or Latino
+431061,Paclitaxel + Pembrolizumab,1,0,1,0,57,White,Postmenopausal (prior bilateral ovariectomy OR > 12 months since LMP with no prior hysterectomy),Not Hispanic or Latino
+168044,Paclitaxel + Pembrolizumab,1,0,0,0,64,White,Postmenopausal (prior bilateral ovariectomy OR > 12 months since LMP with no prior hysterectomy),Not Hispanic or Latino
+227832,Paclitaxel + Neratinib,1,1,0,0,53,White,Perimenopausal(6-12 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+860901,Paclitaxel + AMG 386,0,0,1,1,49,White,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+724384,Paclitaxel,1,0,0,0,43,White,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+621179,Paclitaxel + AMG 386,1,0,0,0,53,White,Above categories not applicable AND Age > 50,Not Hispanic or Latino
+568953,Paclitaxel + AMG 386,1,0,0,0,59,White,Postmenopausal (prior bilateral ovariectomy OR > 12 months since LMP with no prior hysterectomy),Not Hispanic or Latino
+779739,Paclitaxel + MK-2206 + Trastuzumab,1,1,0,1,47,Asian,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+863161,Paclitaxel + MK-2206 + Trastuzumab,0,1,0,1,55,White,Above categories not applicable AND Age > 50,Not Hispanic or Latino
+247641,Paclitaxel,0,0,1,0,63,White,Postmenopausal (prior bilateral ovariectomy OR > 12 months since LMP with no prior hysterectomy),Not Hispanic or Latino
+495440,Paclitaxel,1,0,0,0,49,White,Premenopausal(< 6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+679787,Paclitaxel,0,0,1,0,33,White,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+910188,Paclitaxel + Ganitumab,1,0,0,0,64,White,Postmenopausal (prior bilateral ovariectomy OR > 12 months since LMP with no prior hysterectomy),Not Hispanic or Latino
+141782,Paclitaxel + Trastuzumab,1,1,0,0,54,White,Perimenopausal (6-12 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+401215,Paclitaxel + Ganetespib,1,0,0,0,46,White,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+981664,Paclitaxel + Pertuzumab + Trastuzumab,1,1,0,1,50,Black or African American,Above categories not applicable AND Age > 50,Not Hispanic or Latino
+683173,Paclitaxel + Pembrolizumab,1,0,0,1,51,White,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+102011,Paclitaxel + Ganetespib,1,0,1,1,32,Black or African American,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+703401,Paclitaxel,1,0,0,0,46,White,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+664658,Paclitaxel + Pembrolizumab,1,0,0,1,39,White,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Hispanic or Latino
+345460,Paclitaxel + Ganitumab,1,0,1,0,45,White,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Hispanic or Latino
+999733,Paclitaxel + MK-2206,1,0,0,0,47,White,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+689188,Paclitaxel + Ganetespib,1,0,1,1,72,Black or African American,Above categories not applicable AND Age > 50,Not Hispanic or Latino
+285339,Paclitaxel + Pertuzumab + Trastuzumab,0,1,1,1,56,White,Postmenopausal (prior bilateral ovariectomy OR > 12 months since LMP with no prior hysterectomy),Not Hispanic or Latino
+572793,Paclitaxel + MK-2206,0,0,1,0,49,White,,Hispanic or Latino
+164468,Paclitaxel + Ganetespib,0,0,1,0,45,White,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+473365,Paclitaxel + Pembrolizumab,1,0,0,0,63,White,Postmenopausal (prior bilateral ovariectomy OR > 12 months since LMP with no prior hysterectomy),Not Hispanic or Latino
+843554,Paclitaxel,0,0,1,0,31,Black or African American,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+467622,Paclitaxel + Ganitumab,1,0,1,0,42,White,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+483667,Paclitaxel + Pertuzumab + Trastuzumab,1,1,0,0,46,White,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+798604,Paclitaxel + Ganitumab,0,0,1,1,55,White,Postmenopausal (prior bilateral ovariectomy OR > 12 months since LMP with no prior hysterectomy),Not Hispanic or Latino
+890372,Paclitaxel + Ganitumab,0,0,0,0,39,Black or African American,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+208650,T-DM1 + Pertuzumab,1,1,0,0,39,White,,Not Hispanic or Latino
+532183,Paclitaxel,0,0,1,0,47,White,Above categories not applicable AND Age < 50,Not Hispanic or Latino
+432114,Paclitaxel + Pertuzumab + Trastuzumab,1,1,1,1,50,White,,Not Hispanic or Latino
+804233,Paclitaxel + Pembrolizumab,0,0,1,1,46,White,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+474874,Paclitaxel + Pertuzumab + Trastuzumab,0,1,0,1,41,White,Above categories not applicable AND Age < 50,Not Hispanic or Latino
+651145,Paclitaxel + MK-2206,1,0,0,0,63,White,Postmenopausal (prior bilateral ovariectomy OR > 12 months since LMP with no prior hysterectomy),Hispanic or Latino
+614434,Paclitaxel + MK-2206 + Trastuzumab,1,1,0,1,56,White,Above categories not applicable AND Age < 50,Hispanic or Latino
+521860,Paclitaxel + AMG 386,0,0,1,0,35,White,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Hispanic or Latino
+215932,Paclitaxel + AMG 386 + Trastuzumab,0,1,1,0,43,Asian,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+793155,Paclitaxel + MK-2206,1,0,1,0,58,White,Postmenopausal (prior bilateral ovariectomy OR > 12 months since LMP with no prior hysterectomy),Not Hispanic or Latino
+484894,Paclitaxel,1,0,0,0,31,White,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+242370,Paclitaxel + Pembrolizumab,1,0,0,1,38,White,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+273691,Paclitaxel + Pertuzumab + Trastuzumab,1,1,0,1,46,White,Above categories not applicable AND Age < 50,Not Hispanic or Latino
+618240,Paclitaxel + AMG 386,0,0,1,0,35,White,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Hispanic or Latino
+490805,T-DM1 + Pertuzumab,1,1,0,1,42,White,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+250274,T-DM1 + Pertuzumab,1,1,0,0,43,Asian,Above categories not applicable AND Age < 50,Not Hispanic or Latino
+239910,Paclitaxel + Ganitumab,0,0,1,0,42,White,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Hispanic or Latino
+356399,Paclitaxel,1,0,1,0,30,White,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Hispanic or Latino
+972307,Paclitaxel + ABT 888 + Carboplatin,1,0,0,0,47,White,Premenopausal(< 6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+540539,Paclitaxel + ABT 888 + Carboplatin,0,0,1,1,35,Black or African American,Premenopausal(< 6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+294265,Paclitaxel + MK-2206,0,0,1,1,52,Asian,Postmenopausal (prior bilateral ovariectomy OR > 12 months since LMP with no prior hysterectomy),Not Hispanic or Latino
+891645,Paclitaxel + Neratinib,0,1,0,0,37,White,Premenopausal(< 6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+527581,Paclitaxel + Pertuzumab + Trastuzumab,1,1,0,0,35,White,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Hispanic or Latino
+371528,Paclitaxel + Pembrolizumab,1,0,0,0,70,White,Above categories not applicable AND Age > 50,Not Hispanic or Latino
+410083,T-DM1 + Pertuzumab,0,1,0,1,55,Black or African American,Postmenopausal (prior bilateral ovariectomy OR > 12 months since LMP with no prior hysterectomy),Not Hispanic or Latino
+199960,Paclitaxel + AMG 386,0,0,1,0,33,White,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Hispanic or Latino
+227055,Paclitaxel + AMG 386 + Trastuzumab,1,1,1,0,40,Black or African American,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+830486,Paclitaxel + Ganetespib,0,0,1,0,36,White,Postmenopausal (prior bilateral ovariectomy OR > 12 months since LMP with no prior hysterectomy),Hispanic or Latino
+786753,Paclitaxel + MK-2206 + Trastuzumab,0,1,0,0,59,Asian,Postmenopausal (prior bilateral ovariectomy OR > 12 months since LMP with no prior hysterectomy),Not Hispanic or Latino
+253531,T-DM1 + Pertuzumab,1,1,0,1,59,White,Above categories not applicable AND Age > 50,Not Hispanic or Latino
+510543,Paclitaxel + Ganetespib,1,0,1,0,62,White,,Not Hispanic or Latino
+591180,Paclitaxel + Neratinib,0,0,1,0,57,White,Above categories not applicable AND Age > 50,Not Hispanic or Latino
+766301,Paclitaxel + AMG 386,1,0,0,0,49,White,Premenopausal(< 6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Hispanic or Latino
+590299,Paclitaxel + AMG 386,0,0,1,0,44,White,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Hispanic or Latino
+580541,Paclitaxel,1,0,0,0,61,White,Above categories not applicable AND Age > 50,Not Hispanic or Latino
+690410,Paclitaxel + Ganetespib,1,0,0,0,69,White,Postmenopausal (prior bilateral ovariectomy OR > 12 months since LMP with no prior hysterectomy),Not Hispanic or Latino
+654064,Paclitaxel + MK-2206,1,0,0,0,34,White,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+614044,Paclitaxel,0,0,0,0,52,Black or African American,Above categories not applicable AND Age > 50,Not Hispanic or Latino
+791321,Paclitaxel + MK-2206,0,0,1,0,31,White,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Hispanic or Latino
+284355,Paclitaxel + ABT 888 + Carboplatin,0,0,1,0,41,White,Premenopausal(< 6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+422454,Paclitaxel + MK-2206,1,0,0,0,45,Asian,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+213672,Paclitaxel + Ganetespib,1,0,0,0,39,White,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Hispanic or Latino
+550421,Paclitaxel + Ganetespib,0,0,1,0,49,Black or African American,Postmenopausal (prior bilateral ovariectomy OR > 12 months since LMP with no prior hysterectomy),Not Hispanic or Latino
+929391,Paclitaxel,0,0,1,0,65,White,Postmenopausal (prior bilateral ovariectomy OR > 12 months since LMP with no prior hysterectomy),Not Hispanic or Latino
+477994,Paclitaxel + MK-2206 + Trastuzumab,1,1,1,1,54,White,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+119928,Paclitaxel + Ganetespib,0,0,1,0,39,White,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+913527,Paclitaxel,0,0,1,0,46,White,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+259899,Paclitaxel,0,0,1,0,41,White,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Hispanic or Latino
+676630,Paclitaxel + Ganitumab,0,0,1,1,42,White,Above categories not applicable AND Age < 50,Hispanic or Latino
+894673,Paclitaxel + MK-2206 + Trastuzumab,1,1,0,0,59,White,Above categories not applicable AND Age > 50,Not Hispanic or Latino
+622688,Paclitaxel + Pembrolizumab,0,0,1,1,29,Black or African American,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+870077,Paclitaxel + Ganitumab,1,0,0,0,60,White,Above categories not applicable AND Age > 50,Not Hispanic or Latino
+866660,Paclitaxel,1,0,0,0,38,White,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+177795,Paclitaxel + Pembrolizumab,0,0,1,1,58,White,Postmenopausal (prior bilateral ovariectomy OR > 12 months since LMP with no prior hysterectomy),Not Hispanic or Latino
+685795,Paclitaxel + AMG 386 + Trastuzumab,1,1,0,0,64,White,Postmenopausal (prior bilateral ovariectomy OR > 12 months since LMP with no prior hysterectomy),Not Hispanic or Latino
+218503,Paclitaxel + MK-2206,1,0,0,0,52,White,Postmenopausal (prior bilateral ovariectomy OR > 12 months since LMP with no prior hysterectomy),Not Hispanic or Latino
+802308,Paclitaxel + Ganitumab,0,0,1,0,52,Black or African American,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+741535,Paclitaxel,1,0,0,0,33,White,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+550157,Paclitaxel,0,0,1,1,63,White,Postmenopausal (prior bilateral ovariectomy OR > 12 months since LMP with no prior hysterectomy),Hispanic or Latino
+362150,Paclitaxel + Ganitumab,1,0,1,0,44,White,Above categories not applicable AND Age < 50,Not Hispanic or Latino
+317402,Paclitaxel + MK-2206,1,0,0,0,53,White,Above categories not applicable AND Age > 50,Not Hispanic or Latino
+188700,Paclitaxel + Ganitumab,0,0,1,1,58,White,Postmenopausal (prior bilateral ovariectomy OR > 12 months since LMP with no prior hysterectomy),Not Hispanic or Latino
+547892,Paclitaxel + Ganitumab,1,0,0,0,48,White,Perimenopausal(6-12 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+738041,Paclitaxel + Pertuzumab + Trastuzumab,1,1,1,1,37,White,Perimenopausal(6-12 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+658541,Paclitaxel,1,0,1,0,64,White,Postmenopausal (prior bilateral ovariectomy OR > 12 months since LMP with no prior hysterectomy),Not Hispanic or Latino
+900959,Paclitaxel + Pertuzumab + Trastuzumab,1,1,0,0,63,White,Postmenopausal (prior bilateral ovariectomy OR > 12 months since LMP with no prior hysterectomy),Not Hispanic or Latino
+130892,Paclitaxel + MK-2206,1,0,1,1,50,White,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+893874,Paclitaxel + Ganetespib,0,0,1,1,37,White,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Hispanic or Latino
+618860,Paclitaxel + Ganitumab,1,0,1,0,48,White,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+628788,Paclitaxel + Ganitumab,0,0,1,0,32,White,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+504838,Paclitaxel,0,0,0,0,69,White,Above categories not applicable AND Age > 50,Not Hispanic or Latino
+794128,Paclitaxel + Ganitumab,0,0,0,0,44,White,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Hispanic or Latino
+882553,Paclitaxel + AMG 386,1,0,0,0,47,White,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Hispanic or Latino
+732137,Paclitaxel + MK-2206,0,0,1,0,54,White,Postmenopausal (prior bilateral ovariectomy OR > 12 months since LMP with no prior hysterectomy),Not Hispanic or Latino
+332655,Paclitaxel + MK-2206,0,0,1,1,56,White,Postmenopausal (prior bilateral ovariectomy OR > 12 months since LMP with no prior hysterectomy),Not Hispanic or Latino
+845147,Paclitaxel + MK-2206,1,0,0,0,46,White,Above categories not applicable AND Age < 50,Not Hispanic or Latino
+122287,T-DM1 + Pertuzumab,1,1,1,1,54,White,Postmenopausal (prior bilateral ovariectomy OR > 12 months since LMP with no prior hysterectomy),Hispanic or Latino
+535415,Paclitaxel + MK-2206 + Trastuzumab,0,1,0,1,56,White,Above categories not applicable AND Age > 50,Hispanic or Latino
+851223,Paclitaxel + AMG 386,1,0,1,0,36,White,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+391942,Paclitaxel + Pembrolizumab,0,0,1,1,54,White,Postmenopausal (prior bilateral ovariectomy OR > 12 months since LMP with no prior hysterectomy),Not Hispanic or Latino
+342959,Paclitaxel + MK-2206,0,0,0,1,60,White,Postmenopausal (prior bilateral ovariectomy OR > 12 months since LMP with no prior hysterectomy),Hispanic or Latino
+518576,Paclitaxel + Ganetespib,0,0,0,1,50,White,Perimenopausal(6-12 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+971492,Paclitaxel + AMG 386,1,0,1,0,32,White,Perimenopausal(6-12 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+269899,Paclitaxel + Ganetespib,1,0,0,1,58,White,,Not Hispanic or Latino
+894491,Paclitaxel + ABT 888 + Carboplatin,1,0,1,0,49,Asian,Postmenopausal (prior bilateral ovariectomy OR > 12 months since LMP with no prior hysterectomy),Not Hispanic or Latino
+489194,Paclitaxel + Pembrolizumab,1,0,1,1,33,White,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+300724,Paclitaxel,1,0,0,0,59,White,Postmenopausal (prior bilateral ovariectomy OR > 12 months since LMP with no prior hysterectomy),Not Hispanic or Latino
+674897,Paclitaxel,0,0,1,0,50,Black or African American,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+729732,Paclitaxel + MK-2206,1,0,0,0,36,White,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+635632,Paclitaxel + MK-2206 + Trastuzumab,0,1,0,1,46,Asian,Perimenopausal(6-12 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+509012,Paclitaxel + Ganitumab,0,0,1,1,52,White,Postmenopausal (prior bilateral ovariectomy OR > 12 months since LMP with no prior hysterectomy),Not Hispanic or Latino
+991818,Paclitaxel + Pertuzumab + Trastuzumab,1,1,0,1,46,White,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+290413,Paclitaxel + AMG 386 + Trastuzumab,1,1,0,0,59,White,Postmenopausal (prior bilateral ovariectomy OR > 12 months since LMP with no prior hysterectomy),Not Hispanic or Latino
+319324,Paclitaxel + MK-2206 + Trastuzumab,1,1,0,0,48,White,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+157270,Paclitaxel + AMG 386 + Trastuzumab,1,1,0,0,43,White,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+748611,Paclitaxel,1,0,1,1,59,Black or African American,Postmenopausal (prior bilateral ovariectomy OR > 12 months since LMP with no prior hysterectomy),Not Hispanic or Latino
+689076,Paclitaxel,1,0,0,0,32,White,Above categories not applicable AND Age < 50,Not Hispanic or Latino
+587604,Paclitaxel,0,0,1,0,45,White,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+943879,Paclitaxel + Ganetespib,0,0,1,1,40,Asian,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+601489,Paclitaxel + MK-2206 + Trastuzumab,0,1,1,0,54,Black or African American,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+917762,Paclitaxel + Ganitumab,1,0,0,0,35,White,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+516834,Paclitaxel + Ganitumab,1,0,0,0,46,White,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+567201,Paclitaxel + Ganetespib,0,0,1,1,47,White,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+607843,Paclitaxel,1,0,0,0,57,White,Postmenopausal (prior bilateral ovariectomy OR > 12 months since LMP with no prior hysterectomy),Not Hispanic or Latino
+318407,Paclitaxel + Ganitumab,0,0,1,0,58,White,Above categories not applicable AND Age > 50,Not Hispanic or Latino
+233962,Paclitaxel + Neratinib,0,0,1,1,33,White,Premenopausal(< 6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+473505,Paclitaxel + Pembrolizumab,1,0,1,0,56,Black or African American,Postmenopausal (prior bilateral ovariectomy OR > 12 months since LMP with no prior hysterectomy),Not Hispanic or Latino
+689452,Paclitaxel,0,0,1,0,63,White,,Not Hispanic or Latino
+935460,Paclitaxel,0,0,1,0,65,White,Postmenopausal (prior bilateral ovariectomy OR > 12 months since LMP with no prior hysterectomy),Not Hispanic or Latino
+712917,Paclitaxel + Ganetespib,0,0,1,1,45,White,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+609151,Paclitaxel + MK-2206 + Trastuzumab,0,1,1,1,40,White,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+552313,Paclitaxel + Neratinib,0,1,1,1,61,Asian,Postmenopausal (prior bilateral ovariectomy OR > 12 months since LMP with no prior hysterectomy),Not Hispanic or Latino
+181442,Paclitaxel,0,0,1,0,63,White,Postmenopausal (prior bilateral ovariectomy OR > 12 months since LMP with no prior hysterectomy),Not Hispanic or Latino
+145777,Paclitaxel + Ganitumab,1,0,0,0,30,Asian,Above categories not applicable AND Age < 50,Not Hispanic or Latino
+254060,Paclitaxel + AMG 386,0,0,1,1,38,White,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+411806,Paclitaxel + Ganetespib,1,0,0,0,45,White,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+491779,T-DM1 + Pertuzumab,1,1,1,1,70,White,Postmenopausal (prior bilateral ovariectomy OR > 12 months since LMP with no prior hysterectomy),Not Hispanic or Latino
+575457,Paclitaxel + Pertuzumab + Trastuzumab,0,1,1,1,46,White,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Hispanic or Latino
+180663,Paclitaxel + MK-2206,1,0,1,0,39,White,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+896939,Paclitaxel + Pembrolizumab,1,0,0,0,63,Asian,Postmenopausal (prior bilateral ovariectomy OR > 12 months since LMP with no prior hysterectomy),Not Hispanic or Latino
+415039,Paclitaxel + Neratinib,1,1,0,0,50,White,Premenopausal(< 6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+138425,T-DM1 + Pertuzumab,0,1,1,1,62,White,Postmenopausal (prior bilateral ovariectomy OR > 12 months since LMP with no prior hysterectomy),Not Hispanic or Latino
+783771,Paclitaxel,1,0,1,0,31,Black or African American,Perimenopausal(6-12 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+293142,Paclitaxel,1,0,0,0,56,White,Postmenopausal (prior bilateral ovariectomy OR > 12 months since LMP with no prior hysterectomy),Not Hispanic or Latino
+706639,Paclitaxel,0,0,1,0,50,White,Perimenopausal(6-12 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Hispanic or Latino
+930853,Paclitaxel + AMG 386,1,0,0,1,45,Native Hawaiian or Other Pacific Islande,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+303685,Paclitaxel + Pembrolizumab,1,0,1,1,71,White,Postmenopausal (prior bilateral ovariectomy OR > 12 months since LMP with no prior hysterectomy),Not Hispanic or Latino
+930172,Paclitaxel + Neratinib,1,1,0,0,44,White,Perimenopausal(6-12 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+289107,Paclitaxel + Pembrolizumab,0,0,1,1,50,American Indian or Alaska Native,Postmenopausal (prior bilateral ovariectomy OR > 12 months since LMP with no prior hysterectomy),Hispanic or Latino
+563681,Paclitaxel + Ganitumab,1,0,1,0,23,White,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Hispanic or Latino
+848371,Paclitaxel + Pembrolizumab,0,0,1,1,32,White,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Hispanic or Latino
+960490,Paclitaxel + Pembrolizumab,0,0,1,1,36,White,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+810965,Paclitaxel + Ganetespib,0,0,1,1,66,White,Postmenopausal (prior bilateral ovariectomy OR > 12 months since LMP with no prior hysterectomy),Not Hispanic or Latino
+409288,Paclitaxel,0,0,1,0,77,Black or African American,,Not Hispanic or Latino
+208303,Paclitaxel + Ganetespib,0,0,1,1,64,White,Above categories not applicable AND Age > 50,Not Hispanic or Latino
+282777,Paclitaxel + Ganetespib,1,0,0,0,48,White,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+774840,Paclitaxel + Ganitumab,0,0,1,1,56,White,Above categories not applicable AND Age > 50,Not Hispanic or Latino
+301665,Paclitaxel + AMG 386 + Trastuzumab,1,1,0,0,52,White,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+930903,Paclitaxel + Ganetespib,1,0,1,0,34,White,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Hispanic or Latino
+489973,Paclitaxel + AMG 386,0,0,1,0,39,Black or African American,Above categories not applicable AND Age < 50,Not Hispanic or Latino
+714205,Paclitaxel + ABT 888 + Carboplatin,0,0,1,1,68,White,Postmenopausal (prior bilateral ovariectomy OR > 12 months since LMP with no prior hysterectomy),Not Hispanic or Latino
+635862,Paclitaxel + AMG 386,0,0,1,0,37,"Asian,White",Premenopausal(< 6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+783427,Paclitaxel,1,0,1,1,34,White,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+519738,Paclitaxel + Neratinib,0,1,0,1,58,White,Postmenopausal (prior bilateral ovariectomy OR > 12 months since LMP with no prior hysterectomy),Not Hispanic or Latino
+831848,T-DM1 + Pertuzumab,0,1,1,1,38,White,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+323721,Paclitaxel + MK-2206,1,0,0,0,65,White,Above categories not applicable AND Age > 50,Not Hispanic or Latino
+275626,Paclitaxel + AMG 386,0,0,1,1,42,Native Hawaiian or Pacific Islander;White,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+296123,Paclitaxel + Ganitumab,0,0,1,1,62,White,Postmenopausal (prior bilateral ovariectomy OR > 12 months since LMP with no prior hysterectomy),Not Hispanic or Latino
+237158,Paclitaxel + AMG 386,1,0,1,1,56,White,Postmenopausal (prior bilateral ovariectomy OR > 12 months since LMP with no prior hysterectomy),Not Hispanic or Latino
+906795,Paclitaxel + Trastuzumab,1,1,1,0,29,White,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+212307,Paclitaxel + Ganitumab,1,0,0,0,34,White,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+229328,Paclitaxel + Ganitumab,1,0,0,0,39,White,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+333145,Paclitaxel + Pembrolizumab,1,0,1,1,49,White,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Hispanic or Latino
+912836,Paclitaxel + Ganetespib,0,0,1,0,57,Asian,Postmenopausal (prior bilateral ovariectomy OR > 12 months since LMP with no prior hysterectomy),Not Hispanic or Latino
+327917,Paclitaxel + Ganitumab,0,0,1,0,56,Black or African American,Above categories not applicable AND Age > 50,Not Hispanic or Latino
+887594,Paclitaxel + MK-2206,0,0,1,1,39,White,Above categories not applicable AND Age < 50,Not Hispanic or Latino
+661730,Paclitaxel + AMG 386,0,0,1,1,39,White,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+572016,Paclitaxel + Ganetespib,0,0,1,1,42,White,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+156163,Paclitaxel + AMG 386,1,0,0,0,47,White,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+202535,Paclitaxel + AMG 386 + Trastuzumab,1,1,0,0,32,White,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+478055,Paclitaxel,1,0,0,0,31,Black or African American,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+347516,Paclitaxel + Pembrolizumab,0,0,1,0,39,White,Above categories not applicable AND Age < 50,Not Hispanic or Latino
+399478,Paclitaxel + AMG 386,0,0,1,1,54,White,Perimenopausal(6-12 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+418593,Paclitaxel,1,0,0,0,32,White,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+395249,Paclitaxel + Ganetespib,0,0,1,0,68,White,Postmenopausal (prior bilateral ovariectomy OR > 12 months since LMP with no prior hysterectomy),Not Hispanic or Latino
+369040,Paclitaxel,1,0,0,0,46,White,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+759418,Paclitaxel + Ganetespib,1,0,0,0,42,White,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+200222,Paclitaxel + MK-2206,1,0,0,0,70,White,Above categories not applicable AND Age > 50,Not Hispanic or Latino
+651401,Paclitaxel + Pembrolizumab,0,0,1,0,37,White,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+924812,Paclitaxel + AMG 386,0,0,0,0,60,White,,Hispanic or Latino
+555214,Paclitaxel + AMG 386 + Trastuzumab,0,1,1,1,49,White,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+296841,Paclitaxel + Pertuzumab + Trastuzumab,1,1,0,1,65,White,Postmenopausal (prior bilateral ovariectomy OR > 12 months since LMP with no prior hysterectomy),Not Hispanic or Latino
+604380,Paclitaxel + ABT 888 + Carboplatin,0,0,1,1,52,Black or African American,Premenopausal(< 6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+683896,Paclitaxel + AMG 386,1,0,0,0,61,White,Postmenopausal (prior bilateral ovariectomy OR > 12 months since LMP with no prior hysterectomy),Not Hispanic or Latino
+356431,T-DM1 + Pertuzumab,0,1,1,1,48,White,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+879224,Paclitaxel,0,0,0,0,33,White,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+752469,Paclitaxel,0,0,1,0,55,White,Postmenopausal (prior bilateral ovariectomy OR > 12 months since LMP with no prior hysterectomy),Not Hispanic or Latino
+116603,Paclitaxel,0,0,1,0,39,White,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+664111,Paclitaxel + MK-2206,0,0,1,1,49,White,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+973837,Paclitaxel + Ganitumab,1,0,0,0,47,Asian,Premenopausal(< 6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+760901,Paclitaxel + Ganitumab,0,0,1,1,44,White,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Hispanic or Latino
+165925,Paclitaxel + Ganitumab,0,0,1,0,50,Black or African American,Above categories not applicable AND Age < 50,Not Hispanic or Latino
+313243,Paclitaxel,1,0,1,1,36,White,,Not Hispanic or Latino
+701790,Paclitaxel + Pembrolizumab,1,0,0,0,65,American Indian or Alaska Native,Postmenopausal (prior bilateral ovariectomy OR > 12 months since LMP with no prior hysterectomy),Not Hispanic or Latino
+375455,Paclitaxel + Trastuzumab,1,1,0,0,56,White,Postmenopausal (prior bilateral ovariectomy OR > 12 months since LMP with no prior hysterectomy),Not Hispanic or Latino
+899381,Paclitaxel,1,0,1,1,45,White,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+430441,Paclitaxel + Ganitumab,1,0,0,0,30,White,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+329941,T-DM1 + Pertuzumab,1,1,0,1,47,White,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+820348,Paclitaxel,1,0,1,0,33,White,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+748583,Paclitaxel + MK-2206,1,0,0,0,67,White,Above categories not applicable AND Age > 50,Not Hispanic or Latino
+218249,Paclitaxel,1,0,0,0,59,White,Postmenopausal (prior bilateral ovariectomy OR > 12 months since LMP with no prior hysterectomy),Not Hispanic or Latino
+655703,Paclitaxel + AMG 386,1,0,0,0,64,White,Postmenopausal (prior bilateral ovariectomy OR > 12 months since LMP with no prior hysterectomy),Not Hispanic or Latino
+201831,Paclitaxel + AMG 386,0,0,1,1,44,White,Above categories not applicable AND Age < 50,Not Hispanic or Latino
+938719,Paclitaxel,1,0,1,0,57,White,Postmenopausal (prior bilateral ovariectomy OR > 12 months since LMP with no prior hysterectomy),Not Hispanic or Latino
+728287,Paclitaxel + AMG 386 + Trastuzumab,1,1,0,1,66,White,,Not Hispanic or Latino
+687733,Paclitaxel + Ganetespib,1,0,0,0,43,White,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+646233,Paclitaxel + AMG 386,1,0,0,0,58,White,Postmenopausal (prior bilateral ovariectomy OR > 12 months since LMP with no prior hysterectomy),Not Hispanic or Latino
+831702,T-DM1 + Pertuzumab,1,1,0,0,42,Asian,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+275034,Paclitaxel + AMG 386 + Trastuzumab,1,1,1,1,27,White,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+219545,Paclitaxel,0,0,1,0,56,White,Postmenopausal (prior bilateral ovariectomy OR > 12 months since LMP with no prior hysterectomy),Hispanic or Latino
+367682,Paclitaxel,0,0,1,0,55,White,Above categories not applicable AND Age > 50,Not Hispanic or Latino
+982086,Paclitaxel + Pertuzumab + Trastuzumab,0,1,1,1,56,White,Postmenopausal (prior bilateral ovariectomy OR > 12 months since LMP with no prior hysterectomy),Not Hispanic or Latino
+102212,Paclitaxel + MK-2206,0,0,0,0,26,White,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+616994,Paclitaxel,1,0,1,0,43,Black or African American,Above categories not applicable AND Age < 50,Not Hispanic or Latino
+108969,Paclitaxel + Neratinib,0,1,0,1,64,White,Postmenopausal (prior bilateral ovariectomy OR > 12 months since LMP with no prior hysterectomy),Not Hispanic or Latino
+721099,Paclitaxel + Pertuzumab + Trastuzumab,1,1,0,0,47,White,,Hispanic or Latino
+397505,T-DM1 + Pertuzumab,1,1,1,1,41,White,,Hispanic or Latino
+268937,T-DM1 + Pertuzumab,1,1,0,1,50,Asian,Postmenopausal (prior bilateral ovariectomy OR > 12 months since LMP with no prior hysterectomy),Not Hispanic or Latino
+109874,Paclitaxel + AMG 386,0,0,1,1,43,Asian,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+473468,Paclitaxel + Ganetespib,0,0,1,0,54,Black or African American,Postmenopausal (prior bilateral ovariectomy OR > 12 months since LMP with no prior hysterectomy),Not Hispanic or Latino
+950742,Paclitaxel + Ganitumab,1,0,0,0,40,Black or African American,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+896852,T-DM1 + Pertuzumab,1,1,0,0,41,White,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+535569,T-DM1 + Pertuzumab,0,1,1,0,50,White,Postmenopausal (prior bilateral ovariectomy OR > 12 months since LMP with no prior hysterectomy),Not Hispanic or Latino
+965265,Paclitaxel + AMG 386,0,0,1,0,48,White,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+153880,Paclitaxel + Trastuzumab,1,1,0,0,39,White,Premenopausal(< 6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+992609,Paclitaxel + AMG 386,0,0,1,1,54,White,Postmenopausal (prior bilateral ovariectomy OR > 12 months since LMP with no prior hysterectomy),Hispanic or Latino
+653927,Paclitaxel,0,0,1,1,38,Asian,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+676365,Paclitaxel + Ganetespib,0,0,1,0,31,White,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+458196,Paclitaxel,1,0,0,0,46,Asian,,Not Hispanic or Latino
+423979,Paclitaxel,1,0,0,0,54,White,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+318293,Paclitaxel + AMG 386,1,0,0,0,47,White,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+150547,Paclitaxel + Ganetespib,1,0,1,0,51,White,Perimenopausal(6-12 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+111344,Paclitaxel + AMG 386,1,0,1,0,55,White,Postmenopausal (prior bilateral ovariectomy OR > 12 months since LMP with no prior hysterectomy),Not Hispanic or Latino
+849605,Paclitaxel + Neratinib,0,0,1,0,33,White,Premenopausal(< 6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+797499,T-DM1 + Pertuzumab,0,1,1,1,52,Black or African American,Above categories not applicable AND Age > 50,Not Hispanic or Latino
+639663,Paclitaxel + MK-2206,0,0,1,0,30,White,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+768214,Paclitaxel + AMG 386,0,0,1,0,51,White,,Not Hispanic or Latino
+294739,Paclitaxel,1,0,1,0,42,Black or African American,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+691753,Paclitaxel + Ganitumab,1,0,0,0,49,White,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+539904,Paclitaxel + Trastuzumab,1,1,0,0,45,White,Postmenopausal (prior bilateral ovariectomy OR > 12 months since LMP with no prior hysterectomy),Not Hispanic or Latino
+453596,Paclitaxel + Pertuzumab + Trastuzumab,1,1,0,1,57,White,,Not Hispanic or Latino
+997702,Paclitaxel + ABT 888 + Carboplatin,0,0,1,1,31,Asian,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+118307,Paclitaxel + AMG 386,0,0,1,0,44,White,Perimenopausal(6-12 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+706943,Paclitaxel + Neratinib,0,1,1,0,52,Black or African American,,Not Hispanic or Latino
+591079,Paclitaxel + Ganetespib,0,0,1,1,43,White,Above categories not applicable AND Age < 50,Hispanic or Latino
+825363,Paclitaxel + Pertuzumab + Trastuzumab,0,1,1,1,29,White,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+955035,Paclitaxel + Ganitumab,0,0,1,0,46,White,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+726091,Paclitaxel + Neratinib,0,0,1,1,43,White,Premenopausal(< 6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+179568,Paclitaxel + AMG 386,1,0,1,0,52,White,Postmenopausal (prior bilateral ovariectomy OR > 12 months since LMP with no prior hysterectomy),Not Hispanic or Latino
+280375,Paclitaxel + Ganitumab,0,0,1,0,57,White,Above categories not applicable AND Age > 50,Not Hispanic or Latino
+668752,Paclitaxel + Pembrolizumab,0,0,1,0,58,White,Perimenopausal(6-12 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+568331,Paclitaxel + AMG 386,0,0,0,0,51,White,Postmenopausal (prior bilateral ovariectomy OR > 12 months since LMP with no prior hysterectomy),Not Hispanic or Latino
+924895,Paclitaxel + Ganetespib,1,0,0,0,39,White,Above categories not applicable AND Age < 50,Not Hispanic or Latino
+125418,Paclitaxel + Ganetespib,1,0,0,0,49,White,Perimenopausal(6-12 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+348009,Paclitaxel + ABT 888 + Carboplatin,0,0,1,0,37,White,Premenopausal(< 6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+719713,Paclitaxel + Ganetespib,1,0,0,0,38,White,Above categories not applicable AND Age < 50,Not Hispanic or Latino
+160120,Paclitaxel + ABT 888 + Carboplatin,1,0,0,0,55,Black or African American,Postmenopausal (prior bilateral ovariectomy OR > 12 months since LMP with no prior hysterectomy),Not Hispanic or Latino
+596079,Paclitaxel + Trastuzumab,0,1,0,1,65,White,Postmenopausal (prior bilateral ovariectomy OR > 12 months since LMP with no prior hysterectomy),Not Hispanic or Latino
+706169,Paclitaxel,0,0,1,0,70,White,Postmenopausal (prior bilateral ovariectomy OR > 12 months since LMP with no prior hysterectomy),Not Hispanic or Latino
+920479,Paclitaxel + Neratinib,0,1,0,0,45,White,Premenopausal(< 6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+789497,Paclitaxel + AMG 386,1,0,0,0,54,White,Above categories not applicable AND Age > 50,Not Hispanic or Latino
+282644,Paclitaxel + Neratinib,1,1,0,0,62,White,Postmenopausal (prior bilateral ovariectomy OR > 12 months since LMP with no prior hysterectomy),Not Hispanic or Latino
+484867,Paclitaxel + Neratinib,1,1,0,0,51,White,Above categories not applicable AND Age > 50,Not Hispanic or Latino
+564234,Paclitaxel + ABT 888 + Carboplatin,0,0,1,1,33,White,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Hispanic or Latino
+342996,Paclitaxel,1,0,0,0,42,White,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+760011,T-DM1 + Pertuzumab,1,1,0,1,49,White,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+139771,Paclitaxel + Neratinib,0,0,1,1,55,White,Postmenopausal (prior bilateral ovariectomy OR > 12 months since LMP with no prior hysterectomy),Not Hispanic or Latino
+221686,Paclitaxel + Ganitumab,0,0,1,1,47,White,Postmenopausal (prior bilateral ovariectomy OR > 12 months since LMP with no prior hysterectomy),Hispanic or Latino
+355942,Paclitaxel,1,0,0,0,52,White,,Not Hispanic or Latino
+104268,Paclitaxel,0,0,1,0,50,Black or African American,Above categories not applicable AND Age > 50,Not Hispanic or Latino
+116165,Paclitaxel + Pembrolizumab,1,0,0,0,55,White,Above categories not applicable AND Age > 50,Not Hispanic or Latino
+420523,Paclitaxel + Neratinib,1,1,0,0,39,White,Premenopausal(< 6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+654956,Paclitaxel + Neratinib,0,1,1,0,46,White,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+145513,Paclitaxel + MK-2206 + Trastuzumab,1,1,0,0,32,White,Premenopausal(< 6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+780272,Paclitaxel + Ganitumab,0,0,1,0,54,White,Postmenopausal (prior bilateral ovariectomy OR > 12 months since LMP with no prior hysterectomy),Hispanic or Latino
+419590,Paclitaxel + Ganetespib,0,0,1,0,63,Black or African American,Postmenopausal (prior bilateral ovariectomy OR > 12 months since LMP with no prior hysterectomy),Not Hispanic or Latino
+800447,Paclitaxel + Ganitumab,0,0,1,1,56,White,Postmenopausal (prior bilateral ovariectomy OR > 12 months since LMP with no prior hysterectomy),Not Hispanic or Latino
+924868,Paclitaxel + Ganetespib,0,0,1,1,56,White,Postmenopausal (prior bilateral ovariectomy OR > 12 months since LMP with no prior hysterectomy),Not Hispanic or Latino
+335536,Paclitaxel + AMG 386,1,0,0,0,67,Black or African American,Above categories not applicable AND Age > 50,Not Hispanic or Latino
+957408,Paclitaxel + ABT 888 + Carboplatin,1,0,0,0,29,White,Premenopausal(< 6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+125130,T-DM1 + Pertuzumab,0,1,1,1,48,White,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+520258,Paclitaxel,1,0,1,0,37,White,Premenopausal(< 6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+876511,Paclitaxel + Neratinib,0,0,1,0,39,White,Premenopausal(< 6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+872188,Paclitaxel + Neratinib,0,1,0,1,60,White,Above categories not applicable AND Age > 50,Not Hispanic or Latino
+388581,Paclitaxel + Neratinib,1,1,0,1,48,White,Premenopausal(< 6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+402384,Paclitaxel + MK-2206,0,0,1,0,59,White,Postmenopausal (prior bilateral ovariectomy OR > 12 months since LMP with no prior hysterectomy),Hispanic or Latino
+833536,Paclitaxel + ABT 888 + Carboplatin,0,0,0,1,50,White,Premenopausal(< 6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+896621,Paclitaxel,1,0,0,0,48,White,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+877463,Paclitaxel + Ganetespib,0,0,1,0,45,Asian,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+227881,Paclitaxel + Neratinib,1,1,0,1,49,White,Above categories not applicable AND Age < 50,Hispanic or Latino
+846156,Paclitaxel + Ganetespib,0,0,1,0,44,White,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+683374,Paclitaxel + Neratinib,1,1,0,0,58,White,Postmenopausal (prior bilateral ovariectomy OR > 12 months since LMP with no prior hysterectomy),Not Hispanic or Latino
+301968,Paclitaxel + AMG 386,1,0,1,0,45,Black or African American,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+771813,Paclitaxel,0,0,1,0,49,White,Above categories not applicable AND Age < 50,Not Hispanic or Latino
+567907,Paclitaxel + Ganitumab,1,0,0,0,52,White,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+225836,Paclitaxel + Neratinib,0,0,0,0,70,White,Postmenopausal (prior bilateral ovariectomy OR > 12 months since LMP with no prior hysterectomy),Not Hispanic or Latino
+983841,Paclitaxel + Ganetespib,0,0,1,1,52,White,Postmenopausal (prior bilateral ovariectomy OR > 12 months since LMP with no prior hysterectomy),Hispanic or Latino
+181819,Paclitaxel,1,0,0,1,32,Black or African American,Above categories not applicable AND Age < 50,Not Hispanic or Latino
+209397,Paclitaxel + Pembrolizumab,1,0,0,0,45,White,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+412772,Paclitaxel + Ganitumab,0,0,1,0,62,White,Above categories not applicable AND Age > 50,Not Hispanic or Latino
+460776,Paclitaxel,1,0,0,1,61,White,Postmenopausal (prior bilateral ovariectomy OR > 12 months since LMP with no prior hysterectomy),Not Hispanic or Latino
+840501,Paclitaxel + AMG 386,0,0,0,1,33,White,Premenopausal(< 6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+932200,Paclitaxel,1,0,1,0,24,White,Premenopausal(< 6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+356684,Paclitaxel + AMG 386 + Trastuzumab,1,1,1,0,51,Native Hawaiian or Pacific Islander,Postmenopausal (prior bilateral ovariectomy OR > 12 months since LMP with no prior hysterectomy),Not Hispanic or Latino
+856159,Paclitaxel + Trastuzumab,1,1,0,0,46,White,Above categories not applicable AND Age < 50,Not Hispanic or Latino
+299840,Paclitaxel,0,0,1,0,36,White,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+267306,Paclitaxel + ABT 888 + Carboplatin,0,0,1,1,56,White,Postmenopausal (prior bilateral ovariectomy OR > 12 months since LMP with no prior hysterectomy),Not Hispanic or Latino
+466267,Paclitaxel + Ganetespib,0,0,1,1,51,White,Postmenopausal (prior bilateral ovariectomy OR > 12 months since LMP with no prior hysterectomy),Not Hispanic or Latino
+934906,Paclitaxel,0,0,1,0,32,Asian;White,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+129837,Paclitaxel + ABT 888 + Carboplatin,0,0,1,0,67,White,Postmenopausal (prior bilateral ovariectomy OR > 12 months since LMP with no prior hysterectomy),Not Hispanic or Latino
+862244,Paclitaxel + Pertuzumab + Trastuzumab,0,1,0,0,60,White,Postmenopausal (prior bilateral ovariectomy OR > 12 months since LMP with no prior hysterectomy),Not Hispanic or Latino
+455828,Paclitaxel,1,0,0,1,50,White,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+239061,Paclitaxel + Ganitumab,0,0,1,0,70,Black or African American,Postmenopausal (prior bilateral ovariectomy OR > 12 months since LMP with no prior hysterectomy),Not Hispanic or Latino
+974618,Paclitaxel + AMG 386,0,0,0,1,67,White,Postmenopausal (prior bilateral ovariectomy OR > 12 months since LMP with no prior hysterectomy),Not Hispanic or Latino
+815493,Paclitaxel + Pembrolizumab,0,0,1,1,37,White,Above categories not applicable AND Age < 50,Not Hispanic or Latino
+797427,Paclitaxel + Trastuzumab,1,1,0,0,52,White,Postmenopausal (prior bilateral ovariectomy OR > 12 months since LMP with no prior hysterectomy),Not Hispanic or Latino
+197942,Paclitaxel,0,0,0,0,34,White,Premenopausal(< 6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+254273,T-DM1 + Pertuzumab,1,1,0,0,51,White,Perimenopausal(6-12 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Hispanic or Latino
+111038,Paclitaxel + AMG 386,0,0,1,0,28,White,Premenopausal(< 6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+690089,Paclitaxel + AMG 386,0,0,0,0,43,White,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+597253,Paclitaxel + AMG 386,1,0,0,0,59,White,Postmenopausal (prior bilateral ovariectomy OR > 12 months since LMP with no prior hysterectomy),Not Hispanic or Latino
+491526,Paclitaxel,1,0,0,0,71,White,Postmenopausal (prior bilateral ovariectomy OR > 12 months since LMP with no prior hysterectomy),Not Hispanic or Latino
+598835,T-DM1 + Pertuzumab,0,1,1,0,41,American Indian or Alaska Native,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+103693,Paclitaxel + Pembrolizumab,1,0,0,0,59,White,Postmenopausal (prior bilateral ovariectomy OR > 12 months since LMP with no prior hysterectomy),Not Hispanic or Latino
+839274,Paclitaxel + MK-2206 + Trastuzumab,1,1,1,0,68,White,Postmenopausal (prior bilateral ovariectomy OR > 12 months since LMP with no prior hysterectomy),Not Hispanic or Latino
+136536,Paclitaxel,0,0,1,1,42,Asian,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Hispanic or Latino
+157463,Paclitaxel + ABT 888 + Carboplatin,1,0,0,0,44,White,Premenopausal(< 6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Hispanic or Latino
+570148,Paclitaxel + Neratinib,1,1,0,0,44,White,Premenopausal(< 6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+882538,Paclitaxel + Ganitumab,0,0,1,1,56,White,Above categories not applicable AND Age > 50,Not Hispanic or Latino
+151230,Paclitaxel + Neratinib,1,1,0,0,45,Black or African American,Premenopausal(< 6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+380972,Paclitaxel + Ganetespib,1,0,0,0,28,White,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+666450,Paclitaxel + Neratinib,1,1,0,0,45,White,Premenopausal(< 6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+953885,T-DM1 + Pertuzumab,1,1,1,0,42,White,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+439489,Paclitaxel + Ganetespib,1,0,0,0,41,White,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Hispanic or Latino
+570380,Paclitaxel + Neratinib,0,0,1,0,44,White,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+133650,Paclitaxel + Ganetespib,1,0,1,0,54,White,Postmenopausal (prior bilateral ovariectomy OR > 12 months since LMP with no prior hysterectomy),Not Hispanic or Latino
+502486,Paclitaxel,0,0,1,0,28,White,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+987914,Paclitaxel,0,0,1,0,57,Black or African American,Postmenopausal (prior bilateral ovariectomy OR > 12 months since LMP with no prior hysterectomy),Not Hispanic or Latino
+437162,T-DM1 + Pertuzumab,1,1,0,0,45,White,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+255388,Paclitaxel + MK-2206 + Trastuzumab,0,1,1,1,57,White,Above categories not applicable AND Age > 50,Not Hispanic or Latino
+377460,Paclitaxel + Pertuzumab + Trastuzumab,0,1,1,1,53,Asian,Postmenopausal (prior bilateral ovariectomy OR > 12 months since LMP with no prior hysterectomy),Not Hispanic or Latino
+127675,Paclitaxel + Neratinib,0,0,0,0,59,White,Postmenopausal (prior bilateral ovariectomy OR > 12 months since LMP with no prior hysterectomy),Not Hispanic or Latino
+790722,Paclitaxel + ABT 888 + Carboplatin,0,0,1,0,64,White,Postmenopausal (prior bilateral ovariectomy OR > 12 months since LMP with no prior hysterectomy),Not Hispanic or Latino
+709559,Paclitaxel,1,0,0,0,48,White,Premenopausal(< 6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+284443,Paclitaxel + AMG 386 + Trastuzumab,1,1,0,0,46,White,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Hispanic or Latino
+923968,Paclitaxel + AMG 386,1,0,0,1,40,White,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+477816,Paclitaxel,1,0,0,0,39,Black or African American,Premenopausal(< 6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+298101,Paclitaxel + MK-2206 + Trastuzumab,1,1,0,0,71,White,Postmenopausal (prior bilateral ovariectomy OR > 12 months since LMP with no prior hysterectomy),Not Hispanic or Latino
+151980,Paclitaxel + Ganetespib,1,0,1,1,46,White,Above categories not applicable AND Age < 50,Not Hispanic or Latino
+115987,Paclitaxel + Ganitumab,0,0,1,0,42,White,Above categories not applicable AND Age < 50,Not Hispanic or Latino
+804979,Paclitaxel + Ganitumab,1,0,0,0,47,Asian,,Not Hispanic or Latino
+632408,Paclitaxel + AMG 386,1,0,1,0,65,White,Postmenopausal (prior bilateral ovariectomy OR > 12 months since LMP with no prior hysterectomy),Not Hispanic or Latino
+105286,Paclitaxel + Ganitumab,1,0,0,0,65,White,,Not Hispanic or Latino
+765773,Paclitaxel + Ganetespib,0,0,1,1,49,White,Above categories not applicable AND Age < 50,Not Hispanic or Latino
+803514,Paclitaxel,1,0,0,0,55,White,Postmenopausal (prior bilateral ovariectomy OR > 12 months since LMP with no prior hysterectomy),Not Hispanic or Latino
+202956,Paclitaxel + Neratinib,0,0,1,1,49,White,Above categories not applicable AND Age < 50,Not Hispanic or Latino
+144302,Paclitaxel + Pertuzumab + Trastuzumab,1,1,0,0,52,White,Postmenopausal (prior bilateral ovariectomy OR > 12 months since LMP with no prior hysterectomy),Not Hispanic or Latino
+362993,Paclitaxel,0,0,0,0,35,Black or African American,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+809649,Paclitaxel + Trastuzumab,0,1,0,1,44,Black or African American,Above categories not applicable AND Age < 50,Not Hispanic or Latino
+552549,Paclitaxel + AMG 386,1,0,0,0,57,White,Postmenopausal (prior bilateral ovariectomy OR > 12 months since LMP with no prior hysterectomy),Not Hispanic or Latino
+220664,Paclitaxel + Neratinib,0,0,1,1,47,Asian,Premenopausal(< 6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+941191,Paclitaxel + Neratinib,1,1,0,0,52,White,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+411950,Paclitaxel + Ganitumab,1,0,1,0,61,White,Above categories not applicable AND Age > 50,Not Hispanic or Latino
+114087,Paclitaxel + Pembrolizumab,1,0,0,0,46,White,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+240432,Paclitaxel,1,0,0,0,48,Black or African American,Postmenopausal (prior bilateral ovariectomy OR > 12 months since LMP with no prior hysterectomy),Not Hispanic or Latino
+414286,Paclitaxel + MK-2206,1,0,1,0,62,White,Postmenopausal (prior bilateral ovariectomy OR > 12 months since LMP with no prior hysterectomy),Not Hispanic or Latino
+301289,Paclitaxel + Pembrolizumab,1,0,0,0,42,White,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Hispanic or Latino
+462605,Paclitaxel + Pertuzumab + Trastuzumab,0,1,1,1,46,White,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Hispanic or Latino
+697871,Paclitaxel + ABT 888 + Carboplatin,0,0,1,1,39,White,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+442981,Paclitaxel + Pembrolizumab,1,0,0,1,35,White,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+435279,Paclitaxel + Ganitumab,1,0,0,0,47,White,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+204939,Paclitaxel + Pertuzumab + Trastuzumab,1,1,0,1,49,Black or African American,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+496205,Paclitaxel + AMG 386,1,0,0,1,68,White,Postmenopausal (prior bilateral ovariectomy OR > 12 months since LMP with no prior hysterectomy),Not Hispanic or Latino
+688955,Paclitaxel,1,0,1,0,40,White,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+700549,Paclitaxel + MK-2206,1,0,0,0,34,White,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+536253,T-DM1 + Pertuzumab,1,1,0,1,51,White,Postmenopausal (prior bilateral ovariectomy OR > 12 months since LMP with no prior hysterectomy),Hispanic or Latino
+442669,Paclitaxel + Ganetespib,0,0,1,0,53,White,Above categories not applicable AND Age > 50,Not Hispanic or Latino
+147139,Paclitaxel + Pembrolizumab,0,0,1,1,52,White,Perimenopausal(6-12 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+328160,Paclitaxel,1,0,0,0,55,White,Postmenopausal (prior bilateral ovariectomy OR > 12 months since LMP with no prior hysterectomy),Not Hispanic or Latino
+860243,Paclitaxel + Ganetespib,1,0,1,0,47,White,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+228192,Paclitaxel + AMG 386,0,0,0,0,56,White,Above categories not applicable AND Age > 50,Hispanic or Latino
+284593,Paclitaxel + MK-2206,0,0,1,0,32,White,Premenopausal(< 6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Hispanic or Latino
+248255,Paclitaxel + Ganitumab,1,0,0,0,31,White,Premenopausal(< 6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+875089,Paclitaxel + Ganitumab,0,0,1,0,42,Asian,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+771443,Paclitaxel + MK-2206 + Trastuzumab,1,1,0,0,51,White,Premenopausal(< 6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+889049,Paclitaxel + Trastuzumab,0,1,0,0,36,White,Premenopausal(< 6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+531672,Paclitaxel + AMG 386,1,0,0,0,28,White,Premenopausal(< 6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+462582,Paclitaxel,1,0,0,0,55,White,Postmenopausal (prior bilateral ovariectomy OR > 12 months since LMP with no prior hysterectomy),Not Hispanic or Latino
+641246,Paclitaxel + Neratinib,1,1,0,1,58,White,Postmenopausal (prior bilateral ovariectomy OR > 12 months since LMP with no prior hysterectomy),Not Hispanic or Latino
+894128,Paclitaxel + AMG 386,0,0,1,1,57,Black or African American,Postmenopausal (prior bilateral ovariectomy OR > 12 months since LMP with no prior hysterectomy),Not Hispanic or Latino
+196064,Paclitaxel + AMG 386,1,0,1,1,50,White,Postmenopausal (prior bilateral ovariectomy OR > 12 months since LMP with no prior hysterectomy),Not Hispanic or Latino
+578975,Paclitaxel + MK-2206,0,0,0,1,43,Black or African American,Premenopausal(< 6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+335091,Paclitaxel + Trastuzumab,1,1,0,1,39,White,Premenopausal(< 6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Hispanic or Latino
+829491,Paclitaxel + AMG 386,0,0,0,0,57,White,Above categories not applicable AND Age > 50,Not Hispanic or Latino
+406190,Paclitaxel + Neratinib,0,0,1,0,54,White,Postmenopausal (prior bilateral ovariectomy OR > 12 months since LMP with no prior hysterectomy),Not Hispanic or Latino
+781335,Paclitaxel + ABT 888 + Carboplatin,0,0,0,0,57,Black or African American,Postmenopausal (prior bilateral ovariectomy OR > 12 months since LMP with no prior hysterectomy),Not Hispanic or Latino
+801641,Paclitaxel + MK-2206,0,0,1,0,53,White,Above categories not applicable AND Age < 50,Not Hispanic or Latino
+628692,Paclitaxel + Neratinib,1,0,0,0,58,White,Postmenopausal (prior bilateral ovariectomy OR > 12 months since LMP with no prior hysterectomy),Not Hispanic or Latino
+213913,T-DM1 + Pertuzumab,0,1,1,1,69,Asian,Postmenopausal (prior bilateral ovariectomy OR > 12 months since LMP with no prior hysterectomy),Not Hispanic or Latino
+580632,Paclitaxel + Ganitumab,1,0,0,0,64,White,Postmenopausal (prior bilateral ovariectomy OR > 12 months since LMP with no prior hysterectomy),Not Hispanic or Latino
+783578,Paclitaxel + ABT 888 + Carboplatin,0,0,1,1,48,White,Postmenopausal (prior bilateral ovariectomy OR > 12 months since LMP with no prior hysterectomy),Not Hispanic or Latino
+414971,Paclitaxel + MK-2206,0,0,1,1,73,Black or African American,Postmenopausal (prior bilateral ovariectomy OR > 12 months since LMP with no prior hysterectomy),Hispanic or Latino
+847753,Paclitaxel + Pembrolizumab,1,0,0,1,54,Black or African American,Postmenopausal (prior bilateral ovariectomy OR > 12 months since LMP with no prior hysterectomy),Not Hispanic or Latino
+573605,Paclitaxel + MK-2206,0,0,1,0,38,White,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+910706,Paclitaxel + ABT 888 + Carboplatin,0,0,1,1,37,Black or African American,Premenopausal(< 6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+553012,Paclitaxel + Pembrolizumab,1,0,0,0,63,White,Above categories not applicable AND Age > 50,Not Hispanic or Latino
+782334,Paclitaxel,1,0,0,0,46,Black or African American,Perimenopausal (6-12 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+836114,Paclitaxel + AMG 386,1,0,1,0,48,White,Premenopausal(< 6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+944419,Paclitaxel + ABT 888 + Carboplatin,1,0,0,0,38,White,Above categories not applicable AND Age < 50,Not Hispanic or Latino
+159352,Paclitaxel + MK-2206 + Trastuzumab,1,1,0,0,57,White,Postmenopausal (prior bilateral ovariectomy OR > 12 months since LMP with no prior hysterectomy),Not Hispanic or Latino
+374121,Paclitaxel + ABT 888 + Carboplatin,0,0,1,0,57,White,Postmenopausal (prior bilateral ovariectomy OR > 12 months since LMP with no prior hysterectomy),Not Hispanic or Latino
+573881,Paclitaxel + Neratinib,1,0,0,0,49,White,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+103939,Paclitaxel,1,0,0,0,51,White,Perimenopausal(6-12 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+676048,Paclitaxel + ABT 888 + Carboplatin,0,0,0,0,52,White,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+416434,Paclitaxel + MK-2206 + Trastuzumab,0,1,0,1,65,White,Postmenopausal (prior bilateral ovariectomy OR > 12 months since LMP with no prior hysterectomy),Not Hispanic or Latino
+824512,Paclitaxel + Ganetespib,1,0,0,0,68,White,Above categories not applicable AND Age > 50,Not Hispanic or Latino
+472799,Paclitaxel + Pertuzumab + Trastuzumab,0,1,1,1,63,American Indian or Alaska Native;White,Postmenopausal (prior bilateral ovariectomy OR > 12 months since LMP with no prior hysterectomy),Not Hispanic or Latino
+178649,Paclitaxel + Neratinib,0,0,1,1,58,White,Postmenopausal (prior bilateral ovariectomy OR > 12 months since LMP with no prior hysterectomy),Not Hispanic or Latino
+928446,Paclitaxel + Ganitumab,1,0,0,0,39,White,Above categories not applicable AND Age < 50,Not Hispanic or Latino
+245655,Paclitaxel + Neratinib,0,0,1,0,43,White,Premenopausal(< 6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Hispanic or Latino
+117707,Paclitaxel + Ganetespib,0,0,1,1,50,Black or African American,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+553141,Paclitaxel + ABT 888 + Carboplatin,1,0,1,1,70,White,Postmenopausal (prior bilateral ovariectomy OR > 12 months since LMP with no prior hysterectomy),Not Hispanic or Latino
+382853,Paclitaxel + Trastuzumab,0,1,0,1,32,Black or African American,Premenopausal(< 6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+781642,Paclitaxel + Ganetespib,0,0,1,0,61,White,Postmenopausal (prior bilateral ovariectomy OR > 12 months since LMP with no prior hysterectomy),Not Hispanic or Latino
+631337,Paclitaxel,1,0,0,0,28,White,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+516763,Paclitaxel + AMG 386 + Trastuzumab,0,1,1,1,50,Black or African American,Above categories not applicable AND Age > 50,Not Hispanic or Latino
+685182,Paclitaxel + Pertuzumab + Trastuzumab,1,1,1,1,37,White,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+317641,Paclitaxel + MK-2206,0,0,1,1,28,White,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+587691,T-DM1 + Pertuzumab,1,1,0,1,63,White,Postmenopausal (prior bilateral ovariectomy OR > 12 months since LMP with no prior hysterectomy),Not Hispanic or Latino
+174904,Paclitaxel + AMG 386,1,0,0,0,48,White,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+778020,Paclitaxel + Neratinib,1,0,1,0,54,White,Postmenopausal (prior bilateral ovariectomy OR > 12 months since LMP with no prior hysterectomy),Not Hispanic or Latino
+695521,Paclitaxel + AMG 386,1,0,0,0,57,White,Above categories not applicable AND Age < 50,Not Hispanic or Latino
+493472,Paclitaxel + Ganetespib,1,0,0,0,66,White,Postmenopausal (prior bilateral ovariectomy OR > 12 months since LMP with no prior hysterectomy),Not Hispanic or Latino
+885590,Paclitaxel,1,0,0,0,47,White,Premenopausal(< 6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+443708,Paclitaxel + Neratinib,0,0,1,0,55,White,,Not Hispanic or Latino
+622078,Paclitaxel + Neratinib,0,1,1,0,46,White,Premenopausal(< 6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Hispanic or Latino
+627118,Paclitaxel + Trastuzumab,0,1,0,0,44,White,Premenopausal(< 6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+916645,Paclitaxel,1,0,0,1,50,White,Premenopausal(< 6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+899692,Paclitaxel,0,0,1,1,57,Black or African American,Above categories not applicable AND Age > 50,Not Hispanic or Latino
+427321,Paclitaxel + ABT 888 + Carboplatin,1,0,0,1,51,Black or African American,,Not Hispanic or Latino
+581648,Paclitaxel,0,0,0,0,42,White,Premenopausal(< 6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+172366,Paclitaxel + Ganitumab,0,0,1,1,51,White,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+329076,Paclitaxel + AMG 386,1,0,0,0,43,White,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+903880,Paclitaxel + Neratinib,1,1,0,0,53,White,Premenopausal(< 6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+146987,Paclitaxel + AMG 386,1,0,1,0,53,Asian,Postmenopausal (prior bilateral ovariectomy OR > 12 months since LMP with no prior hysterectomy),Not Hispanic or Latino
+913225,Paclitaxel + Neratinib,1,1,0,1,51,Asian,Postmenopausal (prior bilateral ovariectomy OR > 12 months since LMP with no prior hysterectomy),Not Hispanic or Latino
+201873,Paclitaxel + Neratinib,1,1,0,1,49,White,Premenopausal(< 6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Hispanic or Latino
+345574,Paclitaxel + ABT 888 + Carboplatin,0,0,1,1,39,Asian,Premenopausal(< 6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+905264,Paclitaxel + MK-2206 + Trastuzumab,0,1,0,0,69,Black or African American,Above categories not applicable AND Age > 50,Not Hispanic or Latino
+142688,Paclitaxel,0,0,1,0,45,Asian,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+655128,Paclitaxel + AMG 386,1,0,0,0,49,Asian,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+309830,Paclitaxel + MK-2206,0,0,1,0,32,White,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+653325,Paclitaxel + AMG 386,1,0,0,0,35,White,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Hispanic or Latino
+929980,Paclitaxel + MK-2206 + Trastuzumab,0,1,1,1,55,White,Postmenopausal (prior bilateral ovariectomy OR > 12 months since LMP with no prior hysterectomy),Not Hispanic or Latino
+712276,Paclitaxel + MK-2206,1,0,0,1,56,White,Postmenopausal (prior bilateral ovariectomy OR > 12 months since LMP with no prior hysterectomy),Not Hispanic or Latino
+966016,Paclitaxel + Ganitumab,1,0,0,1,53,White,Postmenopausal (prior bilateral ovariectomy OR > 12 months since LMP with no prior hysterectomy),Not Hispanic or Latino
+649198,Paclitaxel + Pertuzumab + Trastuzumab,0,1,0,0,50,White,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+953262,Paclitaxel + Neratinib,1,0,1,0,36,White,Premenopausal(< 6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+974181,Paclitaxel + AMG 386,0,0,1,1,41,White,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+357017,Paclitaxel,1,0,0,0,45,White,Premenopausal(< 6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Hispanic or Latino
+380239,Paclitaxel + Neratinib,0,0,1,0,55,White,Postmenopausal (prior bilateral ovariectomy OR > 12 months since LMP with no prior hysterectomy),Not Hispanic or Latino
+178815,Paclitaxel + Neratinib,1,0,0,0,39,White,Premenopausal(< 6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+299962,Paclitaxel + Ganitumab,0,0,1,0,41,White,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+575372,Paclitaxel + ABT 888 + Carboplatin,0,0,1,1,66,White,Postmenopausal (prior bilateral ovariectomy OR > 12 months since LMP with no prior hysterectomy),Not Hispanic or Latino
+350331,Paclitaxel + Trastuzumab,0,1,0,0,54,Asian,Postmenopausal (prior bilateral ovariectomy OR > 12 months since LMP with no prior hysterectomy),Not Hispanic or Latino
+417474,Paclitaxel + Ganitumab,0,0,1,1,63,Asian,Postmenopausal (prior bilateral ovariectomy OR > 12 months since LMP with no prior hysterectomy),Not Hispanic or Latino
+527320,Paclitaxel,0,0,0,0,45,White,Premenopausal(< 6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+851488,Paclitaxel + Ganitumab,1,0,0,0,63,White,,Not Hispanic or Latino
+535779,Paclitaxel + Ganitumab,0,0,1,0,39,White,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+127791,Paclitaxel + Pertuzumab + Trastuzumab,1,1,0,0,44,White,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Hispanic or Latino
+263143,Paclitaxel + MK-2206 + Trastuzumab,0,1,1,0,54,White,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+791944,Paclitaxel + Neratinib,1,1,0,0,65,White,Postmenopausal (prior bilateral ovariectomy OR > 12 months since LMP with no prior hysterectomy),Not Hispanic or Latino
+629606,Paclitaxel + Ganitumab,0,0,1,0,42,White,Above categories not applicable AND Age < 50,Not Hispanic or Latino
+209967,Paclitaxel + Ganitumab,1,0,0,0,45,White,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+728182,Paclitaxel + AMG 386,1,0,0,0,41,White,Premenopausal(< 6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+183831,Paclitaxel + MK-2206,1,0,0,1,49,Asian,Above categories not applicable AND Age < 50,Not Hispanic or Latino
+343898,Paclitaxel + MK-2206,0,0,0,0,45,White,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+353318,Paclitaxel,0,0,1,0,53,White,Postmenopausal (prior bilateral ovariectomy OR > 12 months since LMP with no prior hysterectomy),Not Hispanic or Latino
+531988,Paclitaxel + Ganitumab,0,0,1,1,36,White,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+963303,Paclitaxel,1,0,0,0,37,Asian;White,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+631299,Paclitaxel + Ganetespib,0,0,1,0,53,White,Postmenopausal (prior bilateral ovariectomy OR > 12 months since LMP with no prior hysterectomy),Not Hispanic or Latino
+264678,Paclitaxel,1,0,0,0,46,White,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+987995,Paclitaxel + AMG 386,1,0,0,0,56,White,Above categories not applicable AND Age > 50,Hispanic or Latino
+235995,Paclitaxel + Pertuzumab + Trastuzumab,1,1,0,1,50,White,Perimenopausal(6-12 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+962472,Paclitaxel + AMG 386,1,0,0,0,29,Black or African American,Premenopausal(< 6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+624777,T-DM1 + Pertuzumab,1,1,0,0,52,White,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Hispanic or Latino
+515141,Paclitaxel + AMG 386,0,0,0,1,43,White,Premenopausal(< 6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Hispanic or Latino
+411684,Paclitaxel + ABT 888 + Carboplatin,0,0,1,0,39,White,Premenopausal(< 6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Hispanic or Latino
+637566,Paclitaxel + MK-2206,0,0,1,0,68,White,Postmenopausal (prior bilateral ovariectomy OR > 12 months since LMP with no prior hysterectomy),Not Hispanic or Latino
+640043,Paclitaxel + Pembrolizumab,1,0,0,0,33,White,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+111004,Paclitaxel + Pembrolizumab,1,0,0,0,,,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+198891,Paclitaxel,1,0,0,0,61,White,Postmenopausal (prior bilateral ovariectomy OR > 12 months since LMP with no prior hysterectomy),Hispanic or Latino
+830958,Paclitaxel + Pembrolizumab,1,0,0,0,55,Black or African American,Above categories not applicable AND Age > 50,Not Hispanic or Latino
+824350,T-DM1 + Pertuzumab,0,1,1,1,58,White,Postmenopausal (prior bilateral ovariectomy OR > 12 months since LMP with no prior hysterectomy),Not Hispanic or Latino
+573586,Paclitaxel + Trastuzumab,1,1,0,0,57,White,Postmenopausal (prior bilateral ovariectomy OR > 12 months since LMP with no prior hysterectomy),Not Hispanic or Latino
+755914,Paclitaxel + MK-2206,0,0,1,1,47,White,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+316996,Paclitaxel + Neratinib,0,1,0,0,51,White,Premenopausal(< 6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+363669,Paclitaxel,1,0,0,0,60,White,Postmenopausal (prior bilateral ovariectomy OR > 12 months since LMP with no prior hysterectomy),Not Hispanic or Latino
+190224,Paclitaxel + ABT 888 + Carboplatin,1,0,0,0,63,White,Postmenopausal (prior bilateral ovariectomy OR > 12 months since LMP with no prior hysterectomy),Not Hispanic or Latino
+461824,Paclitaxel + ABT 888 + Carboplatin,0,0,0,0,36,White,Premenopausal(< 6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Hispanic or Latino
+345483,Paclitaxel + Ganitumab,0,0,1,0,50,White,Above categories not applicable AND Age > 50,Not Hispanic or Latino
+479417,Paclitaxel + ABT 888 + Carboplatin,0,0,1,1,49,White,Postmenopausal (prior bilateral ovariectomy OR > 12 months since LMP with no prior hysterectomy),Not Hispanic or Latino
+261304,Paclitaxel + Ganitumab,1,0,0,0,49,White,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+941926,Paclitaxel,1,0,0,0,51,White,Postmenopausal (prior bilateral ovariectomy OR > 12 months since LMP with no prior hysterectomy),Hispanic or Latino
+906042,Paclitaxel,1,0,0,0,55,White,Above categories not applicable AND Age > 50,Not Hispanic or Latino
+988443,Paclitaxel + ABT 888 + Carboplatin,1,0,0,0,49,White,Premenopausal(< 6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+180027,Paclitaxel + AMG 386,0,0,1,1,40,White,Premenopausal(< 6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+845663,Paclitaxel,1,0,0,0,32,Asian,Premenopausal(< 6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+134526,Paclitaxel + Neratinib,0,0,1,1,36,White,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+727804,Paclitaxel + MK-2206,0,0,1,1,43,Black or African American,Postmenopausal (prior bilateral ovariectomy OR > 12 months since LMP with no prior hysterectomy),Not Hispanic or Latino
+623086,Paclitaxel + Neratinib,1,0,1,0,34,White,Premenopausal(< 6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Hispanic or Latino
+814299,Paclitaxel + Neratinib,0,1,0,1,40,White,Premenopausal(< 6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+654021,Paclitaxel,1,0,0,0,46,Asian,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+203060,Paclitaxel + Pertuzumab + Trastuzumab,1,1,0,0,57,White,Postmenopausal (prior bilateral ovariectomy OR > 12 months since LMP with no prior hysterectomy),Not Hispanic or Latino
+820807,Paclitaxel + Ganitumab,1,0,0,1,50,Black or African American,Above categories not applicable AND Age < 50,Not Hispanic or Latino
+211408,Paclitaxel + Neratinib,0,1,0,1,58,White,Postmenopausal (prior bilateral ovariectomy OR > 12 months since LMP with no prior hysterectomy),Not Hispanic or Latino
+286984,Paclitaxel + MK-2206,1,0,1,0,50,White,Premenopausal(< 6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+914968,Paclitaxel + Ganetespib,0,0,1,0,30,White,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Hispanic or Latino
+289420,Paclitaxel + Ganitumab,1,0,0,0,64,Asian,Postmenopausal (prior bilateral ovariectomy OR > 12 months since LMP with no prior hysterectomy),Not Hispanic or Latino
+192548,Paclitaxel + ABT 888 + Carboplatin,1,0,1,0,51,White,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Hispanic or Latino
+255078,Paclitaxel,0,0,1,0,57,White,Above categories not applicable AND Age > 50,Hispanic or Latino
+515105,Paclitaxel + Neratinib,1,1,0,0,38,White,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Hispanic or Latino
+273745,Paclitaxel,1,0,0,0,48,White,Premenopausal(< 6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+374106,Paclitaxel + Neratinib,0,0,1,0,36,White,Premenopausal(< 6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+890414,Paclitaxel,0,0,0,1,55,Asian,Postmenopausal (prior bilateral ovariectomy OR > 12 months since LMP with no prior hysterectomy),Not Hispanic or Latino
+604326,Paclitaxel + Pertuzumab + Trastuzumab,1,1,0,0,60,White,Postmenopausal (prior bilateral ovariectomy OR > 12 months since LMP with no prior hysterectomy),Not Hispanic or Latino
+563856,Paclitaxel + Neratinib,0,0,1,1,40,Black or African American,Premenopausal(< 6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+688291,Paclitaxel + AMG 386,1,0,0,0,56,White,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+530095,Paclitaxel + AMG 386,1,0,0,0,45,Black or African American,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+705381,T-DM1 + Pertuzumab,1,1,0,1,46,White,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+636424,Paclitaxel,0,0,1,0,33,Asian,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+222135,Paclitaxel + AMG 386,1,0,0,0,53,Black or African American,Above categories not applicable AND Age > 50,Not Hispanic or Latino
+349639,Paclitaxel + Neratinib,1,1,1,1,43,Black or African American,Postmenopausal (prior bilateral ovariectomy OR > 12 months since LMP with no prior hysterectomy),Not Hispanic or Latino
+703455,Paclitaxel + Ganetespib,0,0,1,0,44,Black or African American,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+386664,Paclitaxel + AMG 386,1,0,0,0,63,White,Postmenopausal (prior bilateral ovariectomy OR > 12 months since LMP with no prior hysterectomy),Not Hispanic or Latino
+651541,Paclitaxel + Neratinib,0,0,1,1,65,White,Postmenopausal (prior bilateral ovariectomy OR > 12 months since LMP with no prior hysterectomy),Not Hispanic or Latino
+426106,Paclitaxel + MK-2206,1,0,1,0,56,White,Postmenopausal (prior bilateral ovariectomy OR > 12 months since LMP with no prior hysterectomy),Not Hispanic or Latino
+981461,T-DM1 + Pertuzumab,1,1,0,0,44,Black or African American,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+446263,Paclitaxel + Pembrolizumab,1,0,1,1,53,White,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Hispanic or Latino
+122795,Paclitaxel + Ganitumab,0,0,0,0,45,White,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+396723,T-DM1 + Pertuzumab,1,1,0,0,72,White,Postmenopausal (prior bilateral ovariectomy OR > 12 months since LMP with no prior hysterectomy),Not Hispanic or Latino
+677910,Paclitaxel + AMG 386,0,0,1,0,45,Black or African American,Postmenopausal (prior bilateral ovariectomy OR > 12 months since LMP with no prior hysterectomy),Not Hispanic or Latino
+313672,Paclitaxel + Ganetespib,1,0,0,0,73,White,,Not Hispanic or Latino
+500826,Paclitaxel + Pembrolizumab,1,0,0,0,69,White,Postmenopausal (prior bilateral ovariectomy OR > 12 months since LMP with no prior hysterectomy),Not Hispanic or Latino
+729270,Paclitaxel + Neratinib,0,1,0,1,50,White,Premenopausal(< 6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+666147,Paclitaxel + Ganitumab,1,0,0,0,27,White,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Hispanic or Latino
+179369,Paclitaxel + MK-2206,1,0,0,0,36,White,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+982505,Paclitaxel + Pertuzumab + Trastuzumab,1,1,0,0,51,White,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Hispanic or Latino
+375954,Paclitaxel + MK-2206 + Trastuzumab,0,1,1,0,36,White,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+194024,Paclitaxel + Pembrolizumab,1,0,1,1,41,White,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Hispanic or Latino
+320538,Paclitaxel,0,0,1,0,57,White,Postmenopausal (prior bilateral ovariectomy OR > 12 months since LMP with no prior hysterectomy),Not Hispanic or Latino
+152197,Paclitaxel + Pembrolizumab,0,0,1,1,59,White,Postmenopausal (prior bilateral ovariectomy OR > 12 months since LMP with no prior hysterectomy),Not Hispanic or Latino
+637051,Paclitaxel + Ganetespib,0,0,1,0,52,White,Above categories not applicable AND Age > 50,Hispanic or Latino
+697098,Paclitaxel + Neratinib,0,0,1,1,37,White,Premenopausal(< 6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+832056,Paclitaxel + Pembrolizumab,0,0,1,0,41,White,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+942017,Paclitaxel,1,0,1,0,44,Black or African American,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+266509,Paclitaxel + AMG 386,0,0,0,1,59,White,Postmenopausal (prior bilateral ovariectomy OR > 12 months since LMP with no prior hysterectomy),Hispanic or Latino
+307659,Paclitaxel + Neratinib,1,1,0,0,56,White,Above categories not applicable AND Age > 50,Not Hispanic or Latino
+677915,Paclitaxel,1,0,1,0,43,White,Premenopausal(< 6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+100899,Paclitaxel + Ganitumab,0,0,1,0,53,White,Postmenopausal (prior bilateral ovariectomy OR > 12 months since LMP with no prior hysterectomy),Not Hispanic or Latino
+803677,Paclitaxel + MK-2206,0,0,1,0,53,White,Postmenopausal (prior bilateral ovariectomy OR > 12 months since LMP with no prior hysterectomy),Not Hispanic or Latino
+233832,Paclitaxel + ABT 888 + Carboplatin,0,0,1,0,42,Black or African American,Premenopausal(< 6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+733276,Paclitaxel + Ganetespib,0,0,1,0,54,Black or African American,Above categories not applicable AND Age > 50,Not Hispanic or Latino
+994987,Paclitaxel + ABT 888 + Carboplatin,1,0,0,0,62,Black or African American,Postmenopausal (prior bilateral ovariectomy OR > 12 months since LMP with no prior hysterectomy),Not Hispanic or Latino
+360937,Paclitaxel + ABT 888 + Carboplatin,1,0,0,0,50,White,Premenopausal(< 6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+357034,Paclitaxel + Ganetespib,1,0,1,0,63,White,Above categories not applicable AND Age > 50,Not Hispanic or Latino
+485637,Paclitaxel + Pembrolizumab,0,0,0,0,54,White,Perimenopausal(6-12 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+590220,Paclitaxel + MK-2206,0,0,1,1,41,White,Premenopausal(< 6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+405717,Paclitaxel,0,0,0,0,44,Asian,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+640463,Paclitaxel + ABT 888 + Carboplatin,1,0,1,1,31,White,Premenopausal(< 6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+650589,Paclitaxel + AMG 386,0,0,0,0,52,White,Postmenopausal (prior bilateral ovariectomy OR > 12 months since LMP with no prior hysterectomy),Not Hispanic or Latino
+291515,Paclitaxel + ABT 888 + Carboplatin,0,0,1,0,44,White,Premenopausal(< 6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+955953,Paclitaxel + MK-2206 + Trastuzumab,0,1,0,1,36,White,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Hispanic or Latino
+799149,Paclitaxel + Pertuzumab + Trastuzumab,1,1,0,1,35,White,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+182346,Paclitaxel + Ganitumab,1,0,0,0,58,White,Postmenopausal (prior bilateral ovariectomy OR > 12 months since LMP with no prior hysterectomy),Hispanic or Latino
+340186,Paclitaxel + ABT 888 + Carboplatin,0,0,0,0,54,White,Postmenopausal (prior bilateral ovariectomy OR > 12 months since LMP with no prior hysterectomy),Not Hispanic or Latino
+324021,Paclitaxel + Pertuzumab + Trastuzumab,1,1,1,0,44,Black or African American,,Not Hispanic or Latino
+943633,Paclitaxel + AMG 386,0,0,1,0,50,White,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+429220,Paclitaxel + Ganitumab,0,0,1,0,52,White,Above categories not applicable AND Age > 50,Not Hispanic or Latino
+236470,Paclitaxel + Ganetespib,0,0,1,1,54,White,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+640927,Paclitaxel + Neratinib,0,0,0,0,62,White,Postmenopausal (prior bilateral ovariectomy OR > 12 months since LMP with no prior hysterectomy),Not Hispanic or Latino
+901705,Paclitaxel,1,0,0,0,42,Asian,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+712785,Paclitaxel,0,0,1,0,50,White,Perimenopausal(6-12 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+109980,Paclitaxel + Neratinib,1,1,0,1,53,White,Above categories not applicable AND Age > 50,Not Hispanic or Latino
+489504,Paclitaxel,0,0,1,1,47,White,Perimenopausal(6-12 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+845079,T-DM1 + Pertuzumab,1,1,1,1,43,White,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Hispanic or Latino
+234272,Paclitaxel + Neratinib,1,1,0,0,41,White,Premenopausal(< 6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+706418,T-DM1 + Pertuzumab,0,1,1,1,59,White,Postmenopausal (prior bilateral ovariectomy OR > 12 months since LMP with no prior hysterectomy),Not Hispanic or Latino
+259206,Paclitaxel + ABT 888 + Carboplatin,0,0,1,0,64,White,Above categories not applicable AND Age > 50,Hispanic or Latino
+149654,Paclitaxel + Pembrolizumab,1,0,0,0,,,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+904269,Paclitaxel + ABT 888 + Carboplatin,0,0,1,1,59,White,Postmenopausal (prior bilateral ovariectomy OR > 12 months since LMP with no prior hysterectomy),Not Hispanic or Latino
+663197,Paclitaxel + Pembrolizumab,0,0,1,0,43,White,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+857165,Paclitaxel + Pembrolizumab,1,0,1,0,47,White,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Hispanic or Latino
+330134,Paclitaxel + Ganitumab,1,0,0,0,60,White,Postmenopausal (prior bilateral ovariectomy OR > 12 months since LMP with no prior hysterectomy),Not Hispanic or Latino
+771151,Paclitaxel + AMG 386,0,0,1,1,45,White,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Hispanic or Latino
+646600,Paclitaxel + Ganetespib,1,0,1,0,35,White,,Not Hispanic or Latino
+629371,Paclitaxel + MK-2206 + Trastuzumab,0,1,1,1,58,White,Postmenopausal (prior bilateral ovariectomy OR > 12 months since LMP with no prior hysterectomy),Not Hispanic or Latino
+169918,Paclitaxel + AMG 386,1,0,0,0,50,White,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+507198,Paclitaxel,0,0,1,0,44,White,Premenopausal(< 6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+800710,Paclitaxel,0,0,1,0,29,White,Premenopausal(< 6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+570966,Paclitaxel + AMG 386 + Trastuzumab,1,1,1,0,51,White,Above categories not applicable AND Age > 50,Not Hispanic or Latino
+745633,Paclitaxel + Ganitumab,1,0,0,0,56,White,Postmenopausal (prior bilateral ovariectomy OR > 12 months since LMP with no prior hysterectomy),Not Hispanic or Latino
+255535,Paclitaxel + Neratinib,1,1,0,0,44,Black or African American,Premenopausal(< 6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+725455,Paclitaxel + Trastuzumab,0,1,1,0,49,White,Premenopausal(< 6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+698094,Paclitaxel,1,0,0,0,53,White,Premenopausal(< 6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Hispanic or Latino
+734997,Paclitaxel,1,0,1,0,38,White,,Not Hispanic or Latino
+792181,Paclitaxel + AMG 386,0,0,1,1,60,White,Postmenopausal (prior bilateral ovariectomy OR > 12 months since LMP with no prior hysterectomy),Hispanic or Latino
+934459,Paclitaxel + ABT 888 + Carboplatin,0,0,0,0,70,White,Postmenopausal (prior bilateral ovariectomy OR > 12 months since LMP with no prior hysterectomy),Not Hispanic or Latino
+467686,Paclitaxel + Ganitumab,1,0,1,1,37,White,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+421829,Paclitaxel,0,0,1,0,46,White,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+644186,Paclitaxel,1,0,0,0,46,Asian,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+456432,Paclitaxel + Ganetespib,0,0,1,0,45,Asian,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+478484,Paclitaxel + Neratinib,0,0,0,0,64,Asian,Postmenopausal (prior bilateral ovariectomy OR > 12 months since LMP with no prior hysterectomy),Not Hispanic or Latino
+166782,Paclitaxel + Neratinib,1,1,0,0,52,Black or African American,Postmenopausal (prior bilateral ovariectomy OR > 12 months since LMP with no prior hysterectomy),Not Hispanic or Latino
+287961,Paclitaxel + MK-2206 + Trastuzumab,1,1,0,1,53,White,Postmenopausal (prior bilateral ovariectomy OR > 12 months since LMP with no prior hysterectomy),Hispanic or Latino
+435313,Paclitaxel + ABT 888 + Carboplatin,0,0,1,0,52,Black or African American,Perimenopausal(6-12 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+202539,Paclitaxel,1,0,0,1,57,White,Postmenopausal (prior bilateral ovariectomy OR > 12 months since LMP with no prior hysterectomy),Not Hispanic or Latino
+520986,Paclitaxel + MK-2206,1,0,0,1,53,Native Hawaiian or Pacific Islander,Postmenopausal (prior bilateral ovariectomy OR > 12 months since LMP with no prior hysterectomy),Not Hispanic or Latino
+252748,Paclitaxel,0,0,1,1,41,White,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Hispanic or Latino
+306127,Paclitaxel + ABT 888 + Carboplatin,1,0,0,0,55,Black or African American,Above categories not applicable AND Age > 50,Not Hispanic or Latino
+129973,Paclitaxel + ABT 888 + Carboplatin,0,0,1,1,35,White,Premenopausal(< 6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+959366,Paclitaxel + ABT 888 + Carboplatin,0,0,1,1,65,White,Above categories not applicable AND Age > 50,Not Hispanic or Latino
+454808,Paclitaxel + Ganitumab,0,0,1,0,56,Black or African American,Postmenopausal (prior bilateral ovariectomy OR > 12 months since LMP with no prior hysterectomy),Not Hispanic or Latino
+727255,T-DM1 + Pertuzumab,0,1,1,0,53,White,Above categories not applicable AND Age > 50,Not Hispanic or Latino
+597907,Paclitaxel + AMG 386,1,0,0,0,52,Black or African American,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+962664,Paclitaxel,0,0,1,1,30,White,Above categories not applicable AND Age < 50,Not Hispanic or Latino
+228340,Paclitaxel + Neratinib,0,1,0,0,66,White,Postmenopausal (prior bilateral ovariectomy OR > 12 months since LMP with no prior hysterectomy),Not Hispanic or Latino
+539291,Paclitaxel + Neratinib,0,1,0,1,47,White,Postmenopausal (prior bilateral ovariectomy OR > 12 months since LMP with no prior hysterectomy),Not Hispanic or Latino
+341238,Paclitaxel + Pembrolizumab,1,0,0,0,27,Asian;White,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+759015,Paclitaxel + Neratinib,1,0,0,0,36,White,Premenopausal(< 6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+655795,Paclitaxel,1,0,1,1,57,White,Postmenopausal (prior bilateral ovariectomy OR > 12 months since LMP with no prior hysterectomy),Not Hispanic or Latino
+790397,T-DM1 + Pertuzumab,1,1,0,1,33,White,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Hispanic or Latino
+572731,Paclitaxel + ABT 888 + Carboplatin,1,0,1,1,34,White,Premenopausal(< 6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+644609,Paclitaxel + Pertuzumab + Trastuzumab,0,1,1,1,67,White,Postmenopausal (prior bilateral ovariectomy OR > 12 months since LMP with no prior hysterectomy),Not Hispanic or Latino
+459311,Paclitaxel + Ganetespib,1,0,1,0,54,White,Above categories not applicable AND Age > 50,Not Hispanic or Latino
+987728,Paclitaxel + Ganitumab,0,0,1,1,56,Asian,Perimenopausal(6-12 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+572235,Paclitaxel + Neratinib,1,1,0,0,54,Asian,Postmenopausal (prior bilateral ovariectomy OR > 12 months since LMP with no prior hysterectomy),Not Hispanic or Latino
+609642,Paclitaxel + MK-2206 + Trastuzumab,0,1,1,1,58,White,Postmenopausal (prior bilateral ovariectomy OR > 12 months since LMP with no prior hysterectomy),Not Hispanic or Latino
+946927,Paclitaxel + MK-2206 + Trastuzumab,0,1,0,1,63,White,Postmenopausal (prior bilateral ovariectomy OR > 12 months since LMP with no prior hysterectomy),Not Hispanic or Latino
+950131,Paclitaxel,1,0,0,1,42,White,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+311316,T-DM1 + Pertuzumab,1,1,0,0,48,White,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+596458,Paclitaxel + Neratinib,1,1,0,1,58,White,Postmenopausal (prior bilateral ovariectomy OR > 12 months since LMP with no prior hysterectomy),Not Hispanic or Latino
+889721,T-DM1 + Pertuzumab,0,1,1,1,64,White,Postmenopausal (prior bilateral ovariectomy OR > 12 months since LMP with no prior hysterectomy),Not Hispanic or Latino
+465008,Paclitaxel + Ganitumab,1,0,1,0,62,White,Above categories not applicable AND Age > 50,Not Hispanic or Latino
+865416,T-DM1 + Pertuzumab,1,1,0,0,41,White,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+835658,Paclitaxel + Neratinib,1,0,1,1,50,White,Premenopausal(< 6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+660915,Paclitaxel + Neratinib,1,0,1,0,54,Black or African American,Postmenopausal (prior bilateral ovariectomy OR > 12 months since LMP with no prior hysterectomy),Not Hispanic or Latino
+493519,Paclitaxel,1,0,0,0,40,White,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+318569,Paclitaxel + Neratinib,1,1,0,0,39,Asian,Premenopausal(< 6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+819622,Paclitaxel,1,0,0,0,53,White,Premenopausal(< 6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+600536,Paclitaxel + AMG 386,0,0,1,0,37,White,Premenopausal(< 6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Hispanic or Latino
+566011,Paclitaxel + Neratinib,0,0,1,0,59,White,Postmenopausal (prior bilateral ovariectomy OR > 12 months since LMP with no prior hysterectomy),Not Hispanic or Latino
+138027,Paclitaxel + Ganitumab,0,0,1,0,64,Asian,Postmenopausal (prior bilateral ovariectomy OR > 12 months since LMP with no prior hysterectomy),Not Hispanic or Latino
+788149,Paclitaxel + AMG 386 + Trastuzumab,1,1,0,1,57,White,Above categories not applicable AND Age < 50,Not Hispanic or Latino
+318438,Paclitaxel,0,0,0,0,60,White,Perimenopausal (6-12 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+422013,Paclitaxel + Neratinib,1,1,0,0,32,White,Premenopausal(< 6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+663467,Paclitaxel + ABT 888 + Carboplatin,1,0,1,0,45,Black or African American,,Not Hispanic or Latino
+823618,Paclitaxel + AMG 386,1,0,0,0,37,White,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+188511,Paclitaxel + ABT 888 + Carboplatin,1,0,0,0,60,White,Postmenopausal (prior bilateral ovariectomy OR > 12 months since LMP with no prior hysterectomy),Not Hispanic or Latino
+317131,Paclitaxel + Ganitumab,1,0,1,0,46,White,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+383456,Paclitaxel + AMG 386,1,0,0,1,50,White,Postmenopausal (prior bilateral ovariectomy OR > 12 months since LMP with no prior hysterectomy),Not Hispanic or Latino
+573919,Paclitaxel + MK-2206 + Trastuzumab,0,1,0,0,65,White,Above categories not applicable AND Age < 50,Not Hispanic or Latino
+660534,Paclitaxel + Pembrolizumab,0,0,1,1,50,White,Perimenopausal(6-12 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+692885,Paclitaxel + Pembrolizumab,0,0,1,0,40,Black or African American,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+834418,Paclitaxel,1,0,0,0,59,White,Postmenopausal (prior bilateral ovariectomy OR > 12 months since LMP with no prior hysterectomy),Not Hispanic or Latino
+602943,Paclitaxel,0,0,1,1,38,White,Premenopausal(< 6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+378401,Paclitaxel + AMG 386,0,0,0,1,61,White,Postmenopausal (prior bilateral ovariectomy OR > 12 months since LMP with no prior hysterectomy),Not Hispanic or Latino
+123660,Paclitaxel + Trastuzumab,0,1,0,0,71,Asian,Postmenopausal (prior bilateral ovariectomy OR > 12 months since LMP with no prior hysterectomy),Not Hispanic or Latino
+859699,Paclitaxel + Trastuzumab,1,1,0,1,53,White,Postmenopausal (prior bilateral ovariectomy OR > 12 months since LMP with no prior hysterectomy),Hispanic or Latino
+188091,Paclitaxel + Neratinib,0,1,0,1,50,Black or African American,Premenopausal(< 6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+736721,Paclitaxel + AMG 386,1,0,1,0,41,White,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+233191,Paclitaxel,0,0,1,0,42,White,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+111674,Paclitaxel + ABT 888 + Carboplatin,0,0,0,1,30,White,Premenopausal(< 6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+407539,Paclitaxel + Ganitumab,1,0,0,0,35,Black or African American,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+511851,Paclitaxel + Ganitumab,1,0,0,0,48,White,Postmenopausal (prior bilateral ovariectomy OR > 12 months since LMP with no prior hysterectomy),Not Hispanic or Latino
+895653,Paclitaxel + Pertuzumab + Trastuzumab,1,1,0,1,43,White,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+128051,T-DM1 + Pertuzumab,1,1,0,0,56,White,Postmenopausal (prior bilateral ovariectomy OR > 12 months since LMP with no prior hysterectomy),Not Hispanic or Latino
+824234,Paclitaxel + Trastuzumab,1,1,0,1,30,White,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+283070,Paclitaxel + AMG 386,0,0,1,0,68,White,Postmenopausal (prior bilateral ovariectomy OR > 12 months since LMP with no prior hysterectomy),Not Hispanic or Latino
+229144,Paclitaxel,1,0,0,0,54,White,Postmenopausal (prior bilateral ovariectomy OR > 12 months since LMP with no prior hysterectomy),Hispanic or Latino
+424541,Paclitaxel,1,0,0,0,58,White,Postmenopausal (prior bilateral ovariectomy OR > 12 months since LMP with no prior hysterectomy),Not Hispanic or Latino
+542392,Paclitaxel + Ganitumab,0,0,1,0,56,White,Postmenopausal (prior bilateral ovariectomy OR > 12 months since LMP with no prior hysterectomy),Not Hispanic or Latino
+812089,Paclitaxel + Neratinib,0,0,0,0,58,White,Postmenopausal (prior bilateral ovariectomy OR > 12 months since LMP with no prior hysterectomy),Not Hispanic or Latino
+749097,Paclitaxel,1,0,0,0,46,Black or African American,Above categories not applicable AND Age < 50,Not Hispanic or Latino
+437968,Paclitaxel + Neratinib,1,1,0,0,60,White,Above categories not applicable AND Age > 50,Not Hispanic or Latino
+460812,Paclitaxel + Ganetespib,1,0,1,0,50,Black or African American,Above categories not applicable AND Age > 50,Not Hispanic or Latino
+728714,Paclitaxel + ABT 888 + Carboplatin,1,0,0,0,50,White,Premenopausal(< 6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+413961,Paclitaxel + MK-2206,0,0,1,0,49,White,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Hispanic or Latino
+395379,Paclitaxel,1,0,0,0,36,White,Above categories not applicable AND Age < 50,Not Hispanic or Latino
+294176,Paclitaxel + Neratinib,0,0,1,1,56,White,Above categories not applicable AND Age > 50,Not Hispanic or Latino
+130580,Paclitaxel + Ganitumab,0,0,1,1,56,White,Above categories not applicable AND Age > 50,Not Hispanic or Latino
+375342,Paclitaxel + Ganitumab,0,0,1,0,38,White,Above categories not applicable AND Age < 50,Hispanic or Latino
+503034,Paclitaxel + Pertuzumab + Trastuzumab,0,1,0,0,42,White,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+490023,Paclitaxel + MK-2206 + Trastuzumab,0,1,1,1,34,White,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+299364,Paclitaxel,0,0,1,0,40,White,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+303947,Paclitaxel + Neratinib,0,1,1,1,61,White,Postmenopausal (prior bilateral ovariectomy OR > 12 months since LMP with no prior hysterectomy),Not Hispanic or Latino
+766967,Paclitaxel + Ganitumab,1,0,0,1,44,White,Premenopausal(< 6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+726381,Paclitaxel + Trastuzumab,1,1,0,0,63,White,Postmenopausal (prior bilateral ovariectomy OR > 12 months since LMP with no prior hysterectomy),Not Hispanic or Latino
+841336,Paclitaxel,1,0,0,0,47,Black or African American,,Not Hispanic or Latino
+589502,Paclitaxel + Ganetespib,1,0,0,1,67,White,Postmenopausal (prior bilateral ovariectomy OR > 12 months since LMP with no prior hysterectomy),Not Hispanic or Latino
+462581,Paclitaxel + Ganetespib,0,0,1,0,69,Black or African American,Postmenopausal (prior bilateral ovariectomy OR > 12 months since LMP with no prior hysterectomy),Not Hispanic or Latino
+940186,Paclitaxel + Ganetespib,1,0,0,1,44,White,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+592535,Paclitaxel + ABT 888 + Carboplatin,1,0,0,0,44,White,Premenopausal(< 6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+443444,Paclitaxel + Neratinib,0,1,1,0,61,White,Postmenopausal (prior bilateral ovariectomy OR > 12 months since LMP with no prior hysterectomy),Not Hispanic or Latino
+492612,Paclitaxel,0,0,1,0,37,White,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+787415,Paclitaxel + AMG 386,0,0,1,0,56,White,Postmenopausal (prior bilateral ovariectomy OR > 12 months since LMP with no prior hysterectomy),Not Hispanic or Latino
+885871,Paclitaxel,0,0,1,0,41,White,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+728149,T-DM1 + Pertuzumab,1,1,0,0,46,White,,Not Hispanic or Latino
+962827,Paclitaxel + Ganitumab,1,0,0,0,37,White,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+995480,Paclitaxel + Pertuzumab + Trastuzumab,1,1,0,0,46,Asian,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+528833,Paclitaxel + AMG 386 + Trastuzumab,1,1,0,1,61,White,Above categories not applicable AND Age > 50,Not Hispanic or Latino
+775346,Paclitaxel,1,0,0,0,35,White,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+515565,Paclitaxel,0,0,1,0,59,White,Postmenopausal (prior bilateral ovariectomy OR > 12 months since LMP with no prior hysterectomy),Hispanic or Latino
+442637,Paclitaxel + Trastuzumab,0,1,0,0,56,Asian,Perimenopausal (6-12 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+408692,Paclitaxel,0,0,1,1,25,Asian;White,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+497010,Paclitaxel + Pembrolizumab,0,0,1,1,31,White,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+805136,Paclitaxel + AMG 386 + Trastuzumab,0,1,1,0,52,Black or African American,,Not Hispanic or Latino
+238790,Paclitaxel,0,0,1,0,44,Black or African American,Premenopausal(< 6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+327142,Paclitaxel + Neratinib,1,0,0,0,59,Black or African American,Above categories not applicable AND Age > 50,Not Hispanic or Latino
+132463,Paclitaxel + MK-2206 + Trastuzumab,1,1,1,1,64,Asian,Postmenopausal (prior bilateral ovariectomy OR > 12 months since LMP with no prior hysterectomy),Not Hispanic or Latino
+726940,Paclitaxel,0,0,0,0,51,White,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+262131,Paclitaxel + ABT 888 + Carboplatin,0,0,1,0,41,White,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+792412,Paclitaxel + Pembrolizumab,0,0,1,0,32,White,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+169536,Paclitaxel + Neratinib,1,1,0,0,25,White,Premenopausal(< 6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+517870,Paclitaxel,0,0,1,0,52,White,Postmenopausal (prior bilateral ovariectomy OR > 12 months since LMP with no prior hysterectomy),Not Hispanic or Latino
+652480,Paclitaxel + AMG 386,0,0,1,0,36,White,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+151481,Paclitaxel,0,0,0,0,54,White,Postmenopausal (prior bilateral ovariectomy OR > 12 months since LMP with no prior hysterectomy),Not Hispanic or Latino
+199115,Paclitaxel + AMG 386,1,0,0,0,61,White,Postmenopausal (prior bilateral ovariectomy OR > 12 months since LMP with no prior hysterectomy),Not Hispanic or Latino
+630758,Paclitaxel + ABT 888 + Carboplatin,0,0,1,0,57,White,Postmenopausal (prior bilateral ovariectomy OR > 12 months since LMP with no prior hysterectomy),Not Hispanic or Latino
+783764,Paclitaxel + Ganitumab,1,0,0,0,54,White,Above categories not applicable AND Age > 50,Not Hispanic or Latino
+752372,Paclitaxel,1,0,0,0,59,White,Above categories not applicable AND Age < 50,Hispanic or Latino
+549172,Paclitaxel,0,0,0,0,45,White,Premenopausal(< 6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+174903,Paclitaxel + AMG 386,1,0,0,0,56,White,Postmenopausal (prior bilateral ovariectomy OR > 12 months since LMP with no prior hysterectomy),Not Hispanic or Latino
+808714,Paclitaxel,0,0,1,0,69,White,Postmenopausal (prior bilateral ovariectomy OR > 12 months since LMP with no prior hysterectomy),Not Hispanic or Latino
+928815,Paclitaxel + AMG 386,0,0,1,0,38,White,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+241705,Paclitaxel + Ganitumab,1,0,0,0,49,Black or African American,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+148357,Paclitaxel + Ganitumab,1,0,0,0,55,Black or African American,Above categories not applicable AND Age > 50,Not Hispanic or Latino
+680881,Paclitaxel + MK-2206,1,0,1,0,33,White,Premenopausal(< 6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Hispanic or Latino
+591810,Paclitaxel + MK-2206,1,0,0,1,35,Asian,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+790070,Paclitaxel + Neratinib,1,1,0,0,44,White,Premenopausal(< 6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+128675,Paclitaxel,1,0,1,1,47,White,Perimenopausal(6-12 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+889225,Paclitaxel + AMG 386,1,0,0,0,46,White,Premenopausal(< 6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+411008,Paclitaxel + AMG 386,0,0,1,0,49,White,Above categories not applicable AND Age < 50,Not Hispanic or Latino
+723918,Paclitaxel + Neratinib,1,1,0,1,35,White,Premenopausal(< 6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+742477,Paclitaxel + Trastuzumab,1,1,0,0,44,White,Premenopausal(< 6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+579881,Paclitaxel,1,0,0,0,32,White,Premenopausal(< 6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+162562,Paclitaxel + Trastuzumab,0,1,1,1,61,White,Postmenopausal (prior bilateral ovariectomy OR > 12 months since LMP with no prior hysterectomy),Not Hispanic or Latino
+687288,T-DM1 + Pertuzumab,0,1,1,1,57,White,Above categories not applicable AND Age > 50,Not Hispanic or Latino
+120422,Paclitaxel + Ganitumab,1,0,1,1,57,White,Postmenopausal (prior bilateral ovariectomy OR > 12 months since LMP with no prior hysterectomy),Not Hispanic or Latino
+203254,Paclitaxel + MK-2206,0,0,1,0,25,Asian,Premenopausal(< 6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+898618,Paclitaxel + Ganitumab,1,0,0,0,54,White,Above categories not applicable AND Age > 50,Not Hispanic or Latino
+628823,Paclitaxel + Ganitumab,0,0,1,0,42,White,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+423619,Paclitaxel + Neratinib,0,0,1,1,53,White,Premenopausal(< 6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+349330,Paclitaxel + AMG 386,0,0,1,1,50,White,Above categories not applicable AND Age > 50,Not Hispanic or Latino
+524170,Paclitaxel + Ganitumab,1,0,0,0,38,White,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+240957,Paclitaxel + AMG 386,1,0,0,0,46,White,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+584561,Paclitaxel + Pertuzumab + Trastuzumab,0,1,1,1,39,White,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+421917,Paclitaxel,0,0,1,0,41,White,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+115638,Paclitaxel + Ganitumab,0,0,1,0,34,White,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+154293,Paclitaxel + Neratinib,1,1,0,0,52,White,Premenopausal(< 6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+746731,Paclitaxel + ABT 888 + Carboplatin,0,0,1,1,46,Black or African American,Premenopausal(< 6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Hispanic or Latino
+282082,Paclitaxel,0,0,1,1,,,Premenopausal(< 6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+433144,Paclitaxel,0,0,0,1,59,White,Postmenopausal (prior bilateral ovariectomy OR > 12 months since LMP with no prior hysterectomy),Not Hispanic or Latino
+883886,Paclitaxel + Neratinib,0,0,1,0,57,White,Postmenopausal (prior bilateral ovariectomy OR > 12 months since LMP with no prior hysterectomy),Hispanic or Latino
+928170,Paclitaxel + Ganitumab,1,0,0,0,67,White,Above categories not applicable AND Age > 50,Not Hispanic or Latino
+223526,Paclitaxel + Neratinib,1,0,0,0,57,White,Postmenopausal (prior bilateral ovariectomy OR > 12 months since LMP with no prior hysterectomy),Not Hispanic or Latino
+520471,Paclitaxel + Ganitumab,1,0,1,1,35,White,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+172283,Paclitaxel + Neratinib,0,0,1,0,48,Black or African American,Premenopausal(< 6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+720065,Paclitaxel + Trastuzumab,1,1,0,0,55,White,Postmenopausal (prior bilateral ovariectomy OR > 12 months since LMP with no prior hysterectomy),Not Hispanic or Latino
+478655,Paclitaxel + Pembrolizumab,0,0,1,1,52,White,Postmenopausal (prior bilateral ovariectomy OR > 12 months since LMP with no prior hysterectomy),Hispanic or Latino
+451482,Paclitaxel + AMG 386,1,0,0,0,47,Black or African American,Premenopausal(< 6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+223030,Paclitaxel + AMG 386,1,0,0,0,56,White,Postmenopausal (prior bilateral ovariectomy OR > 12 months since LMP with no prior hysterectomy),Not Hispanic or Latino
+586091,Paclitaxel + Pembrolizumab,1,0,1,1,44,White,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+417654,Paclitaxel + Neratinib,1,0,0,0,68,White,Postmenopausal (prior bilateral ovariectomy OR > 12 months since LMP with no prior hysterectomy),Not Hispanic or Latino
+234723,Paclitaxel + AMG 386,0,0,1,0,37,White,Premenopausal(< 6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+602451,Paclitaxel + Ganetespib,1,0,1,0,47,White,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+883696,Paclitaxel + ABT 888 + Carboplatin,1,0,1,0,27,White,Premenopausal(< 6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+970839,Paclitaxel,1,0,1,0,58,White,Postmenopausal (prior bilateral ovariectomy OR > 12 months since LMP with no prior hysterectomy),Not Hispanic or Latino
+507249,Paclitaxel + Pertuzumab + Trastuzumab,1,1,0,0,37,White,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+724293,T-DM1 + Pertuzumab,1,1,0,1,41,White,,Not Hispanic or Latino
+117424,Paclitaxel + Neratinib,0,0,1,1,33,White,Premenopausal(< 6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+793684,Paclitaxel + Ganetespib,0,0,1,0,48,White,Postmenopausal (prior bilateral ovariectomy OR > 12 months since LMP with no prior hysterectomy),Not Hispanic or Latino
+380769,Paclitaxel + ABT 888 + Carboplatin,0,0,1,1,40,Black or African American,Premenopausal(< 6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+572444,Paclitaxel + Neratinib,1,0,0,0,54,White,Postmenopausal (prior bilateral ovariectomy OR > 12 months since LMP with no prior hysterectomy),Hispanic or Latino
+796558,Paclitaxel,0,0,0,0,38,White,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+925691,Paclitaxel + Neratinib,0,1,0,0,58,White,Postmenopausal (prior bilateral ovariectomy OR > 12 months since LMP with no prior hysterectomy),Not Hispanic or Latino
+414256,Paclitaxel + Ganetespib,1,0,0,0,38,Asian,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+765671,Paclitaxel + AMG 386,0,0,0,1,41,Black or African American,Premenopausal(< 6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+990443,Paclitaxel + Pembrolizumab,1,0,0,0,53,White,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+384830,Paclitaxel + MK-2206 + Trastuzumab,1,1,0,0,37,White,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+836983,Paclitaxel + Neratinib,1,1,0,1,54,White,Postmenopausal (prior bilateral ovariectomy OR > 12 months since LMP with no prior hysterectomy),Not Hispanic or Latino
+586207,Paclitaxel + AMG 386,0,0,1,1,45,White,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Hispanic or Latino
+559021,Paclitaxel + Ganitumab,1,0,1,1,34,White,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Hispanic or Latino
+746265,Paclitaxel + Neratinib,1,0,0,0,35,White,Premenopausal(< 6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+962153,Paclitaxel + AMG 386 + Trastuzumab,1,1,1,0,55,White,,Hispanic or Latino
+559263,Paclitaxel,0,0,1,0,64,White,Postmenopausal (prior bilateral ovariectomy OR > 12 months since LMP with no prior hysterectomy),Not Hispanic or Latino
+287300,Paclitaxel + Neratinib,1,1,0,1,45,White,Premenopausal(< 6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+711476,Paclitaxel,1,0,0,1,47,White,Above categories not applicable AND Age < 50,Not Hispanic or Latino
+944536,Paclitaxel + Neratinib,0,1,0,1,58,Black or African American,Postmenopausal (prior bilateral ovariectomy OR > 12 months since LMP with no prior hysterectomy),Not Hispanic or Latino
+361701,Paclitaxel + MK-2206,1,0,0,0,49,White,Postmenopausal (prior bilateral ovariectomy OR > 12 months since LMP with no prior hysterectomy),Not Hispanic or Latino
+112606,Paclitaxel + Trastuzumab,1,1,0,0,57,White,Postmenopausal (prior bilateral ovariectomy OR > 12 months since LMP with no prior hysterectomy),Not Hispanic or Latino
+924071,Paclitaxel + AMG 386,1,0,0,0,57,White,Above categories not applicable AND Age > 50,Not Hispanic or Latino
+598798,Paclitaxel + ABT 888 + Carboplatin,1,0,1,0,46,White,Premenopausal(< 6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Not Hispanic or Latino
+231633,Paclitaxel + Pembrolizumab,0,0,1,1,53,White,Postmenopausal (prior bilateral ovariectomy OR > 12 months since LMP with no prior hysterectomy),Not Hispanic or Latino
+892390,Paclitaxel + Pembrolizumab,0,0,1,1,59,White,Postmenopausal (prior bilateral ovariectomy OR > 12 months since LMP with no prior hysterectomy),Not Hispanic or Latino
+666715,Paclitaxel + Ganetespib,1,0,0,0,32,White,Premenopausal(<6 months since LMP AND no prior bilateral ovariectomy AND not on estrogen replacement),Hispanic or Latino
+241998,Paclitaxel,1,0,0,0,54,Black or African American,Postmenopausal (prior bilateral ovariectomy OR > 12 months since LMP with no prior hysterectomy),Not Hispanic or Latino
+960963,Paclitaxel + MK-2206 + Trastuzumab,1,1,0,0,56,White,Postmenopausal (prior bilateral ovariectomy OR > 12 months since LMP with no prior hysterectomy),Not Hispanic or Latino
